@@ -1,0 +1,187 @@
+{
+    "Accounting Review": {
+        "The Accounting Review": "https://api.openalex.org/works?filter=primary_location.source.id:S160506855",
+        "European Accounting Review": "https://api.openalex.org/works?filter=primary_location.source.id:S171424506",
+        "The British Accounting Review": "https://api.openalex.org/works?filter=primary_location.source.id:S197396629",
+        "Australian Accounting Review": "https://api.openalex.org/works?filter=primary_location.source.id:S144747835",
+        "Pacific Accounting Review": "https://api.openalex.org/works?filter=primary_location.source.id:S66624660",
+        "Review of Accounting Studies": "https://api.openalex.org/works?filter=primary_location.source.id:S11853582",
+        "Accounting review: A quarterly journal of the American Accounting Association": "https://api.openalex.org/works?filter=primary_location.source.id:S2764465082",
+        "Review of Quantitative Finance and Accounting": "https://api.openalex.org/works?filter=primary_location.source.id:S62110574",
+        "The Indonesian Accounting Review": "https://api.openalex.org/works?filter=primary_location.source.id:S4210175999",
+        "Management & Accounting Review (MAR)": "https://api.openalex.org/works?filter=primary_location.source.id:S4306519143",
+        "Korean Accounting Review": "https://api.openalex.org/works?filter=primary_location.source.id:S4210188560",
+        "Asian Review of Accounting": "https://api.openalex.org/works?filter=primary_location.source.id:S164507624",
+        "National Accounting Review": "https://api.openalex.org/works?filter=primary_location.source.id:S4210219734",
+        "Management and Accounting Review": "https://api.openalex.org/works?filter=primary_location.source.id:S4210219166",
+        "Business Accounting Review": "https://api.openalex.org/works?filter=primary_location.source.id:S4306505296",
+        "Review of Accounting and Finance": "https://api.openalex.org/works?filter=primary_location.source.id:S95074589",
+        "Korea International Accounting Review": "https://api.openalex.org/works?filter=primary_location.source.id:S4210234004",
+        "The Japanese Accounting Review": "https://api.openalex.org/works?filter=primary_location.source.id:S4210200284",
+        "Accounting History Review": "https://api.openalex.org/works?filter=primary_location.source.id:S2764833774",
+        "AFEBI Accounting Review": "https://api.openalex.org/works?filter=primary_location.source.id:S4210236218",
+        "China Accounting Review": "https://api.openalex.org/works?filter=primary_location.source.id:S2764408862",
+        "Jambura Accounting Review": "https://api.openalex.org/works?filter=primary_location.source.id:S4210201615",
+        "Jambi Accounting Review (JAR)": "https://api.openalex.org/works?filter=primary_location.source.id:S4387291188",
+        "SAR (Soedirman Accounting Review) Journal of Accounting and Business": "https://api.openalex.org/works?filter=primary_location.source.id:S4210239747",
+        "Accounting Finance & Governance Review/Accounting finance & governance review": "https://api.openalex.org/works?filter=primary_location.source.id:S4210185427"
+    },
+    "Accounting, Organizations and Society": {},
+    "Journal of Accounting and Economics": {
+        "Journal of Accounting and Economics": "https://api.openalex.org/works?filter=primary_location.source.id:S62142384"
+    },
+    "Journal of Accounting Research": {
+        "Journal of Accounting Research": "https://api.openalex.org/works?filter=primary_location.source.id:S111116695"
+    },
+    "American Economic Review": {
+        "American Economic Review": "https://api.openalex.org/works?filter=primary_location.source.id:S23254222"
+    },
+    "Annals of Statistics": {
+        "The Annals of Statistics": "https://api.openalex.org/works?filter=primary_location.source.id:S119757635",
+        "The Annals of Mathematical Statistics": "https://api.openalex.org/works?filter=primary_location.source.id:S5762857",
+        "The Annals of Applied Statistics": "https://api.openalex.org/works?filter=primary_location.source.id:S112778392",
+        "Annals of Economics and Statistics": "https://api.openalex.org/works?filter=primary_location.source.id:S2764518860"
+    },
+    "Econometrica": {
+        "Econometrica": "https://api.openalex.org/works?filter=primary_location.source.id:S95464858"
+    },
+    "Journal of Political Economy": {
+        "Journal of Political Economy": "https://api.openalex.org/works?filter=primary_location.source.id:S95323914"
+    },
+    "Quarterly Journal of Economics": {
+        "The Quarterly Journal of Economics": "https://api.openalex.org/works?filter=primary_location.source.id:S203860005",
+        "Equilibrium Quarterly Journal of Economics and Economic Policy": "https://api.openalex.org/works?filter=primary_location.source.id:S2738413198",
+        "The Quarterly Journal of Austrian Economics": "https://api.openalex.org/works?filter=primary_location.source.id:S64915403",
+        "Quarterly journal of business and economics": "https://api.openalex.org/works?filter=primary_location.source.id:S4306525181"
+    },
+    "Review of Economic Studies": {
+        "The Review of Economic Studies": "https://api.openalex.org/works?filter=primary_location.source.id:S88935262",
+        "Review of Economic and Business Studies": "https://api.openalex.org/works?filter=primary_location.source.id:S2764544181",
+        "Virgil Madgearu Review of Economic Studies and Research": "https://api.openalex.org/works?filter=primary_location.source.id:S4210209771"
+    },
+    "Academy of Management Annals": {
+        "Academy of Management Annals": "https://api.openalex.org/works?filter=primary_location.source.id:S27614628"
+    },
+    "Academy of Management Journal": {
+        "Academy of Management Journal": "https://api.openalex.org/works?filter=primary_location.source.id:S117778295"
+    },
+    "Academy of Management Review": {
+        "Academy of Management Review": "https://api.openalex.org/works?filter=primary_location.source.id:S46763546"
+    },
+    "Administrative Science Quarterly": {
+        "Administrative Science Quarterly": "https://api.openalex.org/works?filter=primary_location.source.id:S143668711"
+    },
+    "Journal of Management": {
+        "Journal of Management": "https://api.openalex.org/works?filter=primary_location.source.id:S122767448"
+    },
+    "Journal of Finance": {
+        "The Journal of Finance": "https://api.openalex.org/works?filter=primary_location.source.id:S5353659",
+        "Journal of Banking & Finance": "https://api.openalex.org/works?filter=primary_location.source.id:S2876017",
+        "International Journal of Finance & Economics": "https://api.openalex.org/works?filter=primary_location.source.id:S146099957",
+        "European Journal of Finance": "https://api.openalex.org/works?filter=primary_location.source.id:S82316188",
+        "Journal of Corporate Finance": "https://api.openalex.org/works?filter=primary_location.source.id:S152282257",
+        "Journal of International Money and Finance": "https://api.openalex.org/works?filter=primary_location.source.id:S10747938",
+        "Journal of Empirical Finance": "https://api.openalex.org/works?filter=primary_location.source.id:S145875555",
+        "Journal of Business Finance &amp Accounting": "https://api.openalex.org/works?filter=primary_location.source.id:S48254654",
+        "Research Journal of Finance and Accounting": "https://api.openalex.org/works?filter=primary_location.source.id:S2764670906",
+        "Quarterly Journal of Finance": "https://api.openalex.org/works?filter=primary_location.source.id:S4210208451",
+        "Journal of applied corporate finance": "https://api.openalex.org/works?filter=primary_location.source.id:S4394735563",
+        "Asian Journal of Finance & Accounting": "https://api.openalex.org/works?filter=primary_location.source.id:S2764774255",
+        "The Journal of Real Estate Finance and Economics": "https://api.openalex.org/works?filter=primary_location.source.id:S202178085",
+        "Journal of Accounting Auditing & Finance": "https://api.openalex.org/works?filter=primary_location.source.id:S107181468",
+        "The North American Journal of Economics and Finance": "https://api.openalex.org/works?filter=primary_location.source.id:S155526628",
+        "The Journal of Finance and Data Science": "https://api.openalex.org/works?filter=primary_location.source.id:S2898431940",
+        "Journal of Asian Finance Economics and Business": "https://api.openalex.org/works?filter=primary_location.source.id:S4210232956",
+        "International Journal of Economics and Finance": "https://api.openalex.org/works?filter=primary_location.source.id:S2765010479",
+        "Journal of Behavioral and Experimental Finance": "https://api.openalex.org/works?filter=primary_location.source.id:S2764372386",
+        "The Journal of Risk Finance": "https://api.openalex.org/works?filter=primary_location.source.id:S61561007",
+        "Journal of Behavioral Finance": "https://api.openalex.org/works?filter=primary_location.source.id:S94083415",
+        "Journal of Sustainable Finance & Investment": "https://api.openalex.org/works?filter=primary_location.source.id:S4210206470",
+        "Spanish Journal of Finance and Accounting / Revista Espa\u00f1ola de Financiaci\u00f3n y Contabilidad": "https://api.openalex.org/works?filter=primary_location.source.id:S2913545599",
+        "Indian Journal of Finance": "https://api.openalex.org/works?filter=primary_location.source.id:S2764881238",
+        "Journal of Economics and Finance": "https://api.openalex.org/works?filter=primary_location.source.id:S171491724"
+    },
+    "Journal of Financial Economics": {
+        "Journal of Financial Economics": "https://api.openalex.org/works?filter=primary_location.source.id:S149240962"
+    },
+    "Review of Financial Studies": {
+        "Review of Financial Studies": "https://api.openalex.org/works?filter=primary_location.source.id:S170137484"
+    },
+    "Human Resource Management Journal (UK)": {},
+    "Journal of International Business Studies": {
+        "Journal of International Business Studies": "https://api.openalex.org/works?filter=primary_location.source.id:S38024979"
+    },
+    "Information Systems Research": {
+        "Information Systems Research": "https://api.openalex.org/works?filter=primary_location.source.id:S202812398"
+    },
+    "Journal of the Association for Information Systems": {
+        "Journal of the Association for Information Systems": "https://api.openalex.org/works?filter=primary_location.source.id:S30879505"
+    },
+    "MIS Quarterly: Management Information Systems": {},
+    "Research Policy": {
+        "Research Policy": "https://api.openalex.org/works?filter=primary_location.source.id:S9731383"
+    },
+    "Academy of Management Learning and Education": {
+        "Academy of Management Learning and Education": "https://api.openalex.org/works?filter=primary_location.source.id:S45682993"
+    },
+    "Journal of Consumer Psychology": {
+        "Journal of Consumer Psychology": "https://api.openalex.org/works?filter=primary_location.source.id:S163545350"
+    },
+    "Journal of Consumer Research": {
+        "Journal of Consumer Research": "https://api.openalex.org/works?filter=primary_location.source.id:S145429826"
+    },
+    "Journal of Marketing": {
+        "Journal of Marketing": "https://api.openalex.org/works?filter=primary_location.source.id:S142990027"
+    },
+    "Journal of Marketing Research": {
+        "Journal of Marketing Research": "https://api.openalex.org/works?filter=primary_location.source.id:S119950638"
+    },
+    "Journal of the Academy of Marketing Science": {
+        "Journal of the Academy of Marketing Science": "https://api.openalex.org/works?filter=primary_location.source.id:S92522684"
+    },
+    "Marketing Science": {
+        "Marketing Science": "https://api.openalex.org/works?filter=primary_location.source.id:S163534328"
+    },
+    "Journal of Operations Management": {
+        "Journal of Operations Management": "https://api.openalex.org/works?filter=primary_location.source.id:S142306484"
+    },
+    "Management Science": {
+        "Management Science": "https://api.openalex.org/works?filter=primary_location.source.id:S33323087"
+    },
+    "Operations Research": {
+        "Operations Research": "https://api.openalex.org/works?filter=primary_location.source.id:S125775545"
+    },
+    "Organization Science": {
+        "Organization Science": "https://api.openalex.org/works?filter=primary_location.source.id:S206124708"
+    },
+    "Psychological Science": {
+        "Psychological Science": "https://api.openalex.org/works?filter=primary_location.source.id:S58854535"
+    },
+    "Journal of Applied Psychology": {
+        "Journal of Applied Psychology": "https://api.openalex.org/works?filter=primary_location.source.id:S166002381"
+    },
+    "Personnel Psychology": {
+        "Personnel Psychology": "https://api.openalex.org/works?filter=primary_location.source.id:S84664706"
+    },
+    "Public Administration Review": {
+        "Public Administration Review": "https://api.openalex.org/works?filter=primary_location.source.id:S76877748"
+    },
+    "American Journal of Sociology": {
+        "American Journal of Sociology": "https://api.openalex.org/works?filter=primary_location.source.id:S122471516"
+    },
+    "American Sociological Review": {
+        "American Sociological Review": "https://api.openalex.org/works?filter=primary_location.source.id:S157620343"
+    },
+    "Annual Review of Sociology": {
+        "Annual Review of Sociology": "https://api.openalex.org/works?filter=primary_location.source.id:S61274580"
+    },
+    "Strategic Management Journal": {
+        "Strategic Management Journal": "https://api.openalex.org/works?filter=primary_location.source.id:S102949365"
+    },
+    "Entrepreneurship Theory and Practice": {
+        "Entrepreneurship Theory and Practice": "https://api.openalex.org/works?filter=primary_location.source.id:S187626162"
+    },
+    "Journal of Business Venturing": {
+        "Journal of Business Venturing": "https://api.openalex.org/works?filter=primary_location.source.id:S66201313"
+    }
+}

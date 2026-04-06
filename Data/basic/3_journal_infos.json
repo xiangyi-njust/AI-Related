@@ -1,0 +1,1284 @@
+{
+    "Business Ethics Quarterly": {
+        "Business Ethics Quarterly": "https://api.openalex.org/works?filter=primary_location.source.id:S9702615"
+    },
+    "Sociology of Health and Illness": {},
+    "Abacus": {
+        "Abacus": "https://api.openalex.org/works?filter=primary_location.source.id:S161221442"
+    },
+    "Accounting and Business Research": {
+        "Accounting and Business Research": "https://api.openalex.org/works?filter=primary_location.source.id:S323237"
+    },
+    "Accounting Forum": {
+        "Accounting Forum": "https://api.openalex.org/works?filter=primary_location.source.id:S131296671"
+    },
+    "Accounting Horizons": {
+        "Accounting Horizons": "https://api.openalex.org/works?filter=primary_location.source.id:S181356434"
+    },
+    "Accounting, Auditing and Accountability Journal": {},
+    "Auditing": {
+        "Accounting Auditing & Accountability Journal": "https://api.openalex.org/works?filter=primary_location.source.id:S4210224324",
+        "Managerial Auditing Journal": "https://api.openalex.org/works?filter=primary_location.source.id:S136661304",
+        "Auditing A Journal of Practice & Theory": "https://api.openalex.org/works?filter=primary_location.source.id:S75845752",
+        "Journal of Accounting Auditing & Finance": "https://api.openalex.org/works?filter=primary_location.source.id:S107181468",
+        "International Journal of Auditing": "https://api.openalex.org/works?filter=primary_location.source.id:S152372256",
+        "Journal of International Accounting Auditing and Taxation": "https://api.openalex.org/works?filter=primary_location.source.id:S132432621",
+        "Current Issues in Auditing": "https://api.openalex.org/works?filter=primary_location.source.id:S80375752",
+        "Eco-Management and Auditing": "https://api.openalex.org/works?filter=primary_location.source.id:S4210222583",
+        "International Journal of Accounting Auditing and Performance Evaluation": "https://api.openalex.org/works?filter=primary_location.source.id:S62246846",
+        "Jurnal Akuntansi & Auditing Indonesia": "https://api.openalex.org/works?filter=primary_location.source.id:S4210233163",
+        "Journal of Modern Accounting and Auditing": "https://api.openalex.org/works?filter=primary_location.source.id:S2764978665",
+        "Media Riset Akuntansi Auditing & Informasi": "https://api.openalex.org/works?filter=primary_location.source.id:S4210183793",
+        "JURNAL AKUNTANSI DAN AUDITING": "https://api.openalex.org/works?filter=primary_location.source.id:S4210174817",
+        "Accounting Analysis Auditing": "https://api.openalex.org/works?filter=primary_location.source.id:S4210183252",
+        "Journal of Accounting Finance and Auditing Studies": "https://api.openalex.org/works?filter=primary_location.source.id:S4210168302",
+        "JURNAL RISET AKUNTANSI DAN AUDITING GOODWILL": "https://api.openalex.org/works?filter=primary_location.source.id:S4210184658",
+        "Journal of Accounting Auditing and Business": "https://api.openalex.org/works?filter=primary_location.source.id:S4210233607",
+        "Jurnal SIKAP (Sistem Informasi Keuangan Auditing Dan Perpajakan)": "https://api.openalex.org/works?filter=primary_location.source.id:S4210222053",
+        "Journal of Accounting and Auditing Research & Practice": "https://api.openalex.org/works?filter=primary_location.source.id:S4210173585",
+        "European Journal of Accounting Auditing and Finance Research": "https://api.openalex.org/works?filter=primary_location.source.id:S4210240132",
+        "Jurnal Akuntansi Perpajakan dan Auditing": "https://api.openalex.org/works?filter=primary_location.source.id:S4387284206",
+        "African J of Accounting Auditing and Finance": "https://api.openalex.org/works?filter=primary_location.source.id:S4210167594",
+        "Jurnal Kajian Akuntansi dan Auditing": "https://api.openalex.org/works?filter=primary_location.source.id:S4210177092",
+        "Journal of Auditing Finance and Forensic Accounting": "https://api.openalex.org/works?filter=primary_location.source.id:S4210170795",
+        "Study on Accounting, Taxation & Auditing": "https://api.openalex.org/works?filter=primary_location.source.id:S4306531233"
+    },
+    "Behavioral Research in Accounting": {
+        "Behavioral Research in Accounting": "https://api.openalex.org/works?filter=primary_location.source.id:S41393910"
+    },
+    "British Accounting Review": {
+        "The British Accounting Review": "https://api.openalex.org/works?filter=primary_location.source.id:S197396629"
+    },
+    "British Tax Review": {
+        "British tax review": "https://api.openalex.org/works?filter=primary_location.source.id:S2764355095"
+    },
+    "Critical Perspectives on Accounting": {
+        "Critical Perspectives on Accounting": "https://api.openalex.org/works?filter=primary_location.source.id:S66510378"
+    },
+    "European Accounting Review": {
+        "European Accounting Review": "https://api.openalex.org/works?filter=primary_location.source.id:S171424506"
+    },
+    "Financial Accountability and Management": {
+        "Financial Accountability and Management": "https://api.openalex.org/works?filter=primary_location.source.id:S178634671"
+    },
+    "Foundations and Trends in Accounting": {
+        "Foundations and Trends\u00ae in Accounting": "https://api.openalex.org/works?filter=primary_location.source.id:S1008349740"
+    },
+    "International Journal of Accounting": {
+        "The International Journal of Accounting": "https://api.openalex.org/works?filter=primary_location.source.id:S5835822",
+        "International Journal of Accounting Information Systems": "https://api.openalex.org/works?filter=primary_location.source.id:S38901890",
+        "International Journal of Accounting and Information Management": "https://api.openalex.org/works?filter=primary_location.source.id:S86375777",
+        "International Journal of Accounting and Financial Reporting": "https://api.openalex.org/works?filter=primary_location.source.id:S2764374755",
+        "International Journal of Accounting Auditing and Performance Evaluation": "https://api.openalex.org/works?filter=primary_location.source.id:S62246846",
+        "Journal of International Accounting Auditing and Taxation": "https://api.openalex.org/works?filter=primary_location.source.id:S132432621",
+        "\u0098The \u009cInternational journal of accounting/International journal of accounting": "https://api.openalex.org/works?filter=primary_location.source.id:S4210202311",
+        "Journal of International Financial Management and Accounting": "https://api.openalex.org/works?filter=primary_location.source.id:S83262020",
+        "Journal of International Accounting Research": "https://api.openalex.org/works?filter=primary_location.source.id:S127536956",
+        "International Journal of Accounting and Finance": "https://api.openalex.org/works?filter=primary_location.source.id:S173177581",
+        "International Journal of Accounting Research": "https://api.openalex.org/works?filter=primary_location.source.id:S4210206878",
+        "International Journal of Accounting & Finance Review": "https://api.openalex.org/works?filter=primary_location.source.id:S4210183308",
+        "International Journal of Accounting and Economics Studies": "https://api.openalex.org/works?filter=primary_location.source.id:S2764736692",
+        "International Journal of Accounting & Finance in Asia Pasific": "https://api.openalex.org/works?filter=primary_location.source.id:S4210228437",
+        "International Journal of Accounting and Taxation": "https://api.openalex.org/works?filter=primary_location.source.id:S4210177322",
+        "The International Journal of Accounting and Business Society": "https://api.openalex.org/works?filter=primary_location.source.id:S4210182229",
+        "International Journal of Academic Research in Accounting Finance and Management Sciences": "https://api.openalex.org/works?filter=primary_location.source.id:S4210192748",
+        "International Journal of Accounting and Business Management": "https://api.openalex.org/works?filter=primary_location.source.id:S4210168603",
+        "The International Journal of Digital Accounting Research": "https://api.openalex.org/works?filter=primary_location.source.id:S148936004",
+        "International Journal of Accounting Finance and Risk Management": "https://api.openalex.org/works?filter=primary_location.source.id:S4210207542",
+        "International Journal of Managerial and Financial Accounting": "https://api.openalex.org/works?filter=primary_location.source.id:S59777368",
+        "IIUM Journal Of Economics and Management/International Journal of Economics, Management and Accounting": "https://api.openalex.org/works?filter=primary_location.source.id:S2764897135",
+        "International Journal of Critical Accounting": "https://api.openalex.org/works?filter=primary_location.source.id:S1086168",
+        "International Journal of Accounting Management Economics and Social Sciences (IJAMESC)": "https://api.openalex.org/works?filter=primary_location.source.id:S4390296950"
+    },
+    "Journal of Accounting and Public Policy": {
+        "Journal of Accounting and Public Policy": "https://api.openalex.org/works?filter=primary_location.source.id:S86762183"
+    },
+    "Journal of Accounting Literature": {
+        "Journal of Accounting Literature": "https://api.openalex.org/works?filter=primary_location.source.id:S2898124213"
+    },
+    "Journal of Accounting, Auditing and Finance": {},
+    "Journal of Business Finance and Accounting": {
+        "Journal of Accounting Business and Finance Research": "https://api.openalex.org/works?filter=primary_location.source.id:S4210211226",
+        "Indonesian Journal of Business Finance and Accounting": "https://api.openalex.org/works?filter=primary_location.source.id:S4210181603",
+        "Journal of Business Accounting and Finance Perspectives": "https://api.openalex.org/works?filter=primary_location.source.id:S4210174283",
+        "International Journal of Accounting and Business Finance": "https://api.openalex.org/works?filter=primary_location.source.id:S4210210744",
+        "International Journal of Accounting Business and Finance": "https://api.openalex.org/works?filter=primary_location.source.id:S4220651798",
+        "Journal of Accounting Research Business and Finance Management": "https://api.openalex.org/works?filter=primary_location.source.id:S4210217774",
+        "Journal of Economics Business Finance and Accounting": "https://api.openalex.org/works?filter=primary_location.source.id:S5407051881"
+    },
+    "Journal of International Accounting, Auditing and Taxation": {},
+    "Journal of the American Taxation Association": {
+        "Journal of the American Taxation Association": "https://api.openalex.org/works?filter=primary_location.source.id:S6014304"
+    },
+    "Management Accounting Research": {
+        "Management Accounting Research": "https://api.openalex.org/works?filter=primary_location.source.id:S114140714"
+    },
+    "Enterprise and Society": {},
+    "European Review of Economic History": {
+        "European Review of Economic History": "https://api.openalex.org/works?filter=primary_location.source.id:S176820844"
+    },
+    "Explorations in Economic History": {
+        "Explorations in Economic History": "https://api.openalex.org/works?filter=primary_location.source.id:S145471836"
+    },
+    "Journal of Economic History": {
+        "The Journal of Economic History": "https://api.openalex.org/works?filter=primary_location.source.id:S122073985",
+        "Journal of the Economic and Social History of the Orient": "https://api.openalex.org/works?filter=primary_location.source.id:S160669930",
+        "South African Journal of Economic History": "https://api.openalex.org/works?filter=primary_location.source.id:S2764938932",
+        "European Journal of the History of Economic Thought": "https://api.openalex.org/works?filter=primary_location.source.id:S105799767",
+        "Journal of the History of Economic Thought": "https://api.openalex.org/works?filter=primary_location.source.id:S4210168092",
+        "Journal of European economic history/\u0098The \u009cJournal of European economic history": "https://api.openalex.org/works?filter=primary_location.source.id:S2764747635",
+        "Revista de Historia Econ\u00f3mica / Journal of Iberian and Latin American Economic History": "https://api.openalex.org/works?filter=primary_location.source.id:S50758683",
+        "Journal of Economic History and History of Economics": "https://api.openalex.org/works?filter=primary_location.source.id:S4210177146",
+        "TSEG/ Low Countries Journal of Social and Economic History": "https://api.openalex.org/works?filter=primary_location.source.id:S4210183623",
+        "Iberian Journal of the History of Economic Thought": "https://api.openalex.org/works?filter=primary_location.source.id:S2764784004",
+        "Investigaciones de Historia Econ\u00f3mica Journal of the Spanish Economic History Association": "https://api.openalex.org/works?filter=primary_location.source.id:S2764759445",
+        "Journal of The History of Economic Thought": "https://api.openalex.org/works?filter=primary_location.source.id:S89365952"
+    },
+    "American Economic Journal: Economic Policy": {
+        "American Economic Journal Economic Policy": "https://api.openalex.org/works?filter=primary_location.source.id:S158011328"
+    },
+    "American Economic Journal: Microeconomics": {
+        "American Economic Journal Microeconomics": "https://api.openalex.org/works?filter=primary_location.source.id:S96919139"
+    },
+    "American Economic Review: Insights": {
+        "American Economic Review Insights": "https://api.openalex.org/works?filter=primary_location.source.id:S4210174288"
+    },
+    "American Journal of Agricultural Economics": {
+        "American Journal of Agricultural Economics": "https://api.openalex.org/works?filter=primary_location.source.id:S91754907"
+    },
+    "Annual Review of Economics": {
+        "Annual Review of Economics": "https://api.openalex.org/works?filter=primary_location.source.id:S196715598"
+    },
+    "Brookings Papers on Economic Activity": {
+        "Brookings Papers on Economic Activity": "https://api.openalex.org/works?filter=primary_location.source.id:S4210173904"
+    },
+    "Cambridge Journal of Economics": {
+        "Cambridge Journal of Economics": "https://api.openalex.org/works?filter=primary_location.source.id:S67103694"
+    },
+    "Canadian Journal of Economics": {
+        "Canadian Journal of Economics/Revue canadienne d \u00e9conomique": "https://api.openalex.org/works?filter=primary_location.source.id:S76440981",
+        "The Canadian Journal of Economics and Political Science": "https://api.openalex.org/works?filter=primary_location.source.id:S937838360",
+        "Canadian Journal of Agricultural Economics/Revue canadienne d agroeconomie": "https://api.openalex.org/works?filter=primary_location.source.id:S179517972",
+        "Canadian Journal of Economics and Political Science/Revue canadienne de economiques et science politique": "https://api.openalex.org/works?filter=primary_location.source.id:S4306505613"
+    },
+    "Computational Statistics and Data Analysis": {
+        "Journal of Intelligent Data Analysis and Computational Statistics": "https://api.openalex.org/works?filter=primary_location.source.id:S5407047123"
+    },
+    "Ecological Economics": {
+        "Ecological Economics": "https://api.openalex.org/works?filter=primary_location.source.id:S136211407"
+    },
+    "Econometric Reviews": {
+        "Econometric Reviews": "https://api.openalex.org/works?filter=primary_location.source.id:S134988049"
+    },
+    "Econometrics Journal": {
+        "Journal of Econometrics": "https://api.openalex.org/works?filter=primary_location.source.id:S127742747",
+        "Econometrics Journal": "https://api.openalex.org/works?filter=primary_location.source.id:S33519306"
+    },
+    "Economic Development and Cultural Change": {
+        "Economic Development and Cultural Change": "https://api.openalex.org/works?filter=primary_location.source.id:S71670289"
+    },
+    "Economic Inquiry": {
+        "Economic Inquiry": "https://api.openalex.org/works?filter=primary_location.source.id:S206615888"
+    },
+    "Economic Policy": {
+        "Economic Policy": "https://api.openalex.org/works?filter=primary_location.source.id:S99606308"
+    },
+    "Economic Theory": {
+        "Journal of Economic Theory": "https://api.openalex.org/works?filter=primary_location.source.id:S149131268",
+        "Economic Theory": "https://api.openalex.org/works?filter=primary_location.source.id:S579031"
+    },
+    "Economica": {
+        "Economica": "https://api.openalex.org/works?filter=primary_location.source.id:S108845946"
+    },
+    "Economics Letters": {
+        "Economics Letters": "https://api.openalex.org/works?filter=primary_location.source.id:S36178057"
+    },
+    "Energy Economics": {
+        "Energy Economics": "https://api.openalex.org/works?filter=primary_location.source.id:S94499970"
+    },
+    "Environmental and Resource Economics": {
+        "Environmental and Resource Economics": "https://api.openalex.org/works?filter=primary_location.source.id:S86125002"
+    },
+    "European Economic Review": {
+        "European Economic Review": "https://api.openalex.org/works?filter=primary_location.source.id:S69338747"
+    },
+    "European Review of Agricultural Economics": {
+        "European Review of Agricultural Economics": "https://api.openalex.org/works?filter=primary_location.source.id:S32361082"
+    },
+    "Experimental Economics": {
+        "Experimental Economics": "https://api.openalex.org/works?filter=primary_location.source.id:S181493553"
+    },
+    "Games and Economic Behavior": {
+        "Games and Economic Behavior": "https://api.openalex.org/works?filter=primary_location.source.id:S94044085"
+    },
+    "Health Economics (United Kingdom)": {},
+    "IMF Economic Review": {
+        "IMF Economic Review": "https://api.openalex.org/works?filter=primary_location.source.id:S21260181"
+    },
+    "International Journal of Industrial Organization": {
+        "International Journal of Industrial Organization": "https://api.openalex.org/works?filter=primary_location.source.id:S183232449"
+    },
+    "International Statistical Review": {
+        "International Statistical Review": "https://api.openalex.org/works?filter=primary_location.source.id:S17395904"
+    },
+    "Journal of Agricultural Economics": {
+        "American Journal of Agricultural Economics": "https://api.openalex.org/works?filter=primary_location.source.id:S91754907",
+        "Journal of Agricultural Economics": "https://api.openalex.org/works?filter=primary_location.source.id:S14468722"
+    },
+    "Journal of Applied Econometrics": {
+        "Journal of Applied Econometrics": "https://api.openalex.org/works?filter=primary_location.source.id:S85739584"
+    },
+    "Journal of Comparative Economics": {
+        "Journal of Comparative Economics": "https://api.openalex.org/works?filter=primary_location.source.id:S138645024"
+    },
+    "Journal of Computational and Graphical Statistics": {
+        "Journal of Computational and Graphical Statistics": "https://api.openalex.org/works?filter=primary_location.source.id:S76159266"
+    },
+    "Journal of Development Economics": {
+        "Journal of Development Economics": "https://api.openalex.org/works?filter=primary_location.source.id:S101209419"
+    },
+    "Journal of Economic Behavior and Organization": {
+        "International Journal of Economic Behavior and Organization": "https://api.openalex.org/works?filter=primary_location.source.id:S4210214906"
+    },
+    "Journal of Economic Dynamics and Control": {
+        "Journal of Economic Dynamics and Control": "https://api.openalex.org/works?filter=primary_location.source.id:S44585919"
+    },
+    "Journal of Economic Growth": {
+        "Journal of Economic Growth": "https://api.openalex.org/works?filter=primary_location.source.id:S181171746"
+    },
+    "Journal of Environmental Economics and Management": {
+        "Journal of Environmental Economics and Management": "https://api.openalex.org/works?filter=primary_location.source.id:S200872515"
+    },
+    "Journal of Health Economics": {
+        "Journal of Health Economics": "https://api.openalex.org/works?filter=primary_location.source.id:S166621295"
+    },
+    "Journal of Human Capital": {
+        "Journal of Human Capital": "https://api.openalex.org/works?filter=primary_location.source.id:S196716848"
+    },
+    "Journal of Human Resources": {
+        "The Journal of Human Resources": "https://api.openalex.org/works?filter=primary_location.source.id:S62957338",
+        "Asia Pacific Journal of Human Resources": "https://api.openalex.org/works?filter=primary_location.source.id:S206927904",
+        "Journal of Human Resources in Hospitality & Tourism": "https://api.openalex.org/works?filter=primary_location.source.id:S109960688",
+        "International Journal of Human Resources Development and Management": "https://api.openalex.org/works?filter=primary_location.source.id:S84210283",
+        "South Asian Journal of Human Resources Management": "https://api.openalex.org/works?filter=primary_location.source.id:S4210226929",
+        "Journal of Human Resources Management Research": "https://api.openalex.org/works?filter=primary_location.source.id:S4210208896",
+        "Journal of Human Resources Management and Labor Studies": "https://api.openalex.org/works?filter=primary_location.source.id:S4210182226",
+        "Journal of human resources education": "https://api.openalex.org/works?filter=primary_location.source.id:S2764620874",
+        "Journal of Education Human Resources": "https://api.openalex.org/works?filter=primary_location.source.id:S4210228416",
+        "Journal of Human Resources Training": "https://api.openalex.org/works?filter=primary_location.source.id:S4210181308",
+        "ISGUC The Journal of Industrial Relations and Human Resources": "https://api.openalex.org/works?filter=primary_location.source.id:S75264612",
+        "Malaysian Journal Of Human Resources Management": "https://api.openalex.org/works?filter=primary_location.source.id:S5407046050",
+        "Journal of Human Resources and Management Science": "https://api.openalex.org/works?filter=primary_location.source.id:S5407044827",
+        "Journal of health and human resources administration": "https://api.openalex.org/works?filter=primary_location.source.id:S2764827822",
+        "Quarterly Journal of Training and Development of Human Resources": "https://api.openalex.org/works?filter=primary_location.source.id:S4210230760",
+        "Universal Journal of Green Human Resources and Sustainable Humanities (UJGHRSH)": "https://api.openalex.org/works?filter=primary_location.source.id:S5407049281",
+        "The Journal of Human Resources eBooks": "https://api.openalex.org/works?filter=primary_location.source.id:S4306489893",
+        "Journal of Idealistic Human Resources": "https://api.openalex.org/works?filter=primary_location.source.id:S5407051505"
+    },
+    "Journal of Industrial Economics": {
+        "Journal of Industrial Economics": "https://api.openalex.org/works?filter=primary_location.source.id:S99067594"
+    },
+    "Journal of Institutional Economics": {
+        "Journal of Institutional Economics": "https://api.openalex.org/works?filter=primary_location.source.id:S146268463"
+    },
+    "Journal of Law and Economics": {
+        "The Journal of Law and Economics": "https://api.openalex.org/works?filter=primary_location.source.id:S998097505",
+        "European Journal of Law and Economics": "https://api.openalex.org/works?filter=primary_location.source.id:S37173775",
+        "The Journal of Law Economics and Organization": "https://api.openalex.org/works?filter=primary_location.source.id:S4210168091",
+        "Journal of Law and Economics": "https://api.openalex.org/works?filter=primary_location.source.id:S4387283559"
+    },
+    "Journal of Law, Economics, and Organization": {},
+    "Journal of Legal Studies": {
+        "The Journal of Legal Studies": "https://api.openalex.org/works?filter=primary_location.source.id:S9231424",
+        "Oxford Journal of Legal Studies": "https://api.openalex.org/works?filter=primary_location.source.id:S34110867",
+        "Journal of Legal Studies Education": "https://api.openalex.org/works?filter=primary_location.source.id:S161692689",
+        "Journal of Empirical Legal Studies": "https://api.openalex.org/works?filter=primary_location.source.id:S124682778",
+        "Dalhousie journal of legal studies": "https://api.openalex.org/works?filter=primary_location.source.id:S142480851",
+        "African Journal of Legal Studies": "https://api.openalex.org/works?filter=primary_location.source.id:S182283531",
+        "Indiana Journal of Global Legal Studies": "https://api.openalex.org/works?filter=primary_location.source.id:S14250838",
+        "UUM Journal of Legal Studies": "https://api.openalex.org/works?filter=primary_location.source.id:S4210170283",
+        "Hungarian Journal of Legal Studies": "https://api.openalex.org/works?filter=primary_location.source.id:S4210190302",
+        "European Journal of Legal Studies": "https://api.openalex.org/works?filter=primary_location.source.id:S4306510131",
+        "Journal of Legal Studies": "https://api.openalex.org/works?filter=primary_location.source.id:S4210200478"
+    },
+    "Journal of Mathematical Economics": {
+        "Journal of Mathematical Economics": "https://api.openalex.org/works?filter=primary_location.source.id:S202934171"
+    },
+    "Journal of Multivariate Analysis": {
+        "Journal of Multivariate Analysis": "https://api.openalex.org/works?filter=primary_location.source.id:S133905466"
+    },
+    "Journal of Population Economics": {
+        "Journal of Population Economics": "https://api.openalex.org/works?filter=primary_location.source.id:S18284184"
+    },
+    "Journal of Public Economics": {
+        "Journal of Public Economics": "https://api.openalex.org/works?filter=primary_location.source.id:S199447588"
+    },
+    "Journal of Risk and Uncertainty": {
+        "Journal of Risk and Uncertainty": "https://api.openalex.org/works?filter=primary_location.source.id:S106686155"
+    },
+    "Journal of the Association of Environmental and Resource Economists": {
+        "Journal of the Association of Environmental and Resource Economists": "https://api.openalex.org/works?filter=primary_location.source.id:S2735550652"
+    },
+    "Journal of the Royal Statistical Society. Series A: Statistics in Society": {
+        "Journal of the Royal Statistical Society Series A (Statistics in Society)": "https://api.openalex.org/works?filter=primary_location.source.id:S185328345",
+        "Journal of The Royal Statistical Society Series A-statistics in Society": "https://api.openalex.org/works?filter=primary_location.source.id:S17318254"
+    },
+    "Journal of the Royal Statistical Society. Series C: Applied Statistics": {
+        "Journal of the Royal Statistical Society Series C (Applied Statistics)": "https://api.openalex.org/works?filter=primary_location.source.id:S2764642956",
+        "Journal of The Royal Statistical Society Series C-applied Statistics": "https://api.openalex.org/works?filter=primary_location.source.id:S163591907"
+    },
+    "Journal of Time Series Analysis": {
+        "Journal of Time Series Analysis": "https://api.openalex.org/works?filter=primary_location.source.id:S206595242"
+    },
+    "Journal of Urban Economics": {
+        "Journal of Urban Economics": "https://api.openalex.org/works?filter=primary_location.source.id:S147692640"
+    },
+    "Labour Economics": {
+        "Labour Economics": "https://api.openalex.org/works?filter=primary_location.source.id:S163774179"
+    },
+    "Land Economics": {
+        "Land Economics": "https://api.openalex.org/works?filter=primary_location.source.id:S149285975"
+    },
+    "Oxford Bulletin of Economics and Statistics": {
+        "Oxford Bulletin of Economics and Statistics": "https://api.openalex.org/works?filter=primary_location.source.id:S92565720"
+    },
+    "Oxford Economic Papers": {
+        "Oxford Economic Papers": "https://api.openalex.org/works?filter=primary_location.source.id:S26073974"
+    },
+    "Public Choice": {
+        "Public Choice": "https://api.openalex.org/works?filter=primary_location.source.id:S7424199"
+    },
+    "Real Estate Economics": {
+        "Real Estate Economics": "https://api.openalex.org/works?filter=primary_location.source.id:S129086836"
+    },
+    "Review of Economic Dynamics": {
+        "Review of Economic Dynamics": "https://api.openalex.org/works?filter=primary_location.source.id:S163499366"
+    },
+    "Review of Income and Wealth": {
+        "Review of Income and Wealth": "https://api.openalex.org/works?filter=primary_location.source.id:S174413665"
+    },
+    "Scandinavian Journal of Economics": {
+        "Scandinavian Journal of Economics": "https://api.openalex.org/works?filter=primary_location.source.id:S165253824"
+    },
+    "Scandinavian Journal of Statistics": {
+        "Scandinavian Journal of Statistics": "https://api.openalex.org/works?filter=primary_location.source.id:S72071028"
+    },
+    "Social Choice and Welfare": {
+        "Social Choice and Welfare": "https://api.openalex.org/works?filter=primary_location.source.id:S107325288"
+    },
+    "World Bank Economic Review": {
+        "The World Bank Economic Review": "https://api.openalex.org/works?filter=primary_location.source.id:S2735890421"
+    },
+    "Entrepreneurship and Regional Development": {
+        "Entrepreneurship and Regional Development": "https://api.openalex.org/works?filter=primary_location.source.id:S22247924"
+    },
+    "Family Business Review": {
+        "Family Business Review": "https://api.openalex.org/works?filter=primary_location.source.id:S196919950"
+    },
+    "International Journal of Entrepreneurial Behaviour and Research": {},
+    "International Small Business Journal": {
+        "International Small Business Journal Researching Entrepreneurship": "https://api.openalex.org/works?filter=primary_location.source.id:S107859553",
+        "International Journal of Entrepreneurship and Small Business": "https://api.openalex.org/works?filter=primary_location.source.id:S123914889",
+        "International Journal of Globalisation and Small Business": "https://api.openalex.org/works?filter=primary_location.source.id:S34937439",
+        "Journal of the International Council for Small Business": "https://api.openalex.org/works?filter=primary_location.source.id:S4210181789",
+        "International Journal of Small Business and Entrepreneurship Research": "https://api.openalex.org/works?filter=primary_location.source.id:S4210201828",
+        "International Journal of Small and Medium Enterprises and Business Sustainability": "https://api.openalex.org/works?filter=primary_location.source.id:S5406999209"
+    },
+    "Journal of Small Business Management": {
+        "Journal of Small Business Management": "https://api.openalex.org/works?filter=primary_location.source.id:S78792899"
+    },
+    "Small Business Economics": {
+        "Small Business Economics": "https://api.openalex.org/works?filter=primary_location.source.id:S41869786"
+    },
+    "Academy of Management Discoveries": {
+        "Academy of Management Discoveries": "https://api.openalex.org/works?filter=primary_location.source.id:S4210202650"
+    },
+    "Business and Society": {
+        "Business and Society Review": "https://api.openalex.org/works?filter=primary_location.source.id:S155589366",
+        "International Journal of Business and Society": "https://api.openalex.org/works?filter=primary_location.source.id:S2764773711",
+        "Education Business and Society Contemporary Middle Eastern Issues": "https://api.openalex.org/works?filter=primary_location.source.id:S128970987",
+        "Proceedings of the International Association for Business and Society": "https://api.openalex.org/works?filter=primary_location.source.id:S4210220084",
+        "Society and Business Review": "https://api.openalex.org/works?filter=primary_location.source.id:S178563901",
+        "The SAGE Encyclopedia of Business Ethics and Society": "https://api.openalex.org/works?filter=primary_location.source.id:S4363604263",
+        "Sustainable Business and Society in Emerging Economies": "https://api.openalex.org/works?filter=primary_location.source.id:S4210195727",
+        "UCJC Business and Society Review (formerly known as Universia Business Review)": "https://api.openalex.org/works?filter=primary_location.source.id:S5407017802",
+        "Encyclopedia of Business Ethics and Society": "https://api.openalex.org/works?filter=primary_location.source.id:S4363604343",
+        "The International Journal of Accounting and Business Society": "https://api.openalex.org/works?filter=primary_location.source.id:S4210233444",
+        "\u0098The \u009cInternational Society of Business, Economics, and Ethics book series": "https://api.openalex.org/works?filter=primary_location.source.id:S4210184058",
+        "\u0098The \u009cIndonesian journal of accounting and business society": "https://api.openalex.org/works?filter=primary_location.source.id:S2764369902",
+        "Thriving on Future Education, Industry, Business and Society; Proceedings of the MakeLearn and TIIM International Conference 2019": "https://api.openalex.org/works?filter=primary_location.source.id:S4306532835",
+        "Business Organizations and Society": "https://api.openalex.org/works?filter=primary_location.source.id:S5407043549",
+        "Journal of Business Ethics and Society": "https://api.openalex.org/works?filter=primary_location.source.id:S4389157840",
+        "Expanding Horizons: Business, Management and Technology for Better Society": "https://api.openalex.org/works?filter=primary_location.source.id:S4306510244",
+        "THE LAW AND THE BUSINESS IN THE CONTEMPORARY SOCIETY": "https://api.openalex.org/works?filter=primary_location.source.id:S4210199356",
+        "Journal of Society Community and Business Development": "https://api.openalex.org/works?filter=primary_location.source.id:S5407044161",
+        "International Journal of Business and Management Technology in Society": "https://api.openalex.org/works?filter=primary_location.source.id:S5407044254",
+        "Conference on e-Business, e-Services and e-Society": "https://api.openalex.org/works?filter=primary_location.source.id:S4306418048",
+        "International Conference on e-Business, e-Services, and e-Society": "https://api.openalex.org/works?filter=primary_location.source.id:S4306423550"
+    },
+    "California Management Review": {
+        "California Management Review": "https://api.openalex.org/works?filter=primary_location.source.id:S172782825"
+    },
+    "European Management Review": {
+        "European Management Review": "https://api.openalex.org/works?filter=primary_location.source.id:S172313144"
+    },
+    "Gender and Society": {
+        "Encyclopedia of Gender and Society": "https://api.openalex.org/works?filter=primary_location.source.id:S4363604630",
+        "Routledge research in gender and society": "https://api.openalex.org/works?filter=primary_location.source.id:S4210226702",
+        "Indonesian Gender and Society Journal": "https://api.openalex.org/works?filter=primary_location.source.id:S4210225231",
+        "African Journal of Gender Society and Development (formerly Journal of Gender Information and Development in Africa)": "https://api.openalex.org/works?filter=primary_location.source.id:S4210222487",
+        "Journal of Gender Culture and Society": "https://api.openalex.org/works?filter=primary_location.source.id:S4210197522"
+    },
+    "Gender, Work and Organization": {},
+    "Harvard Business Review": {
+        "Harvard business review": "https://api.openalex.org/works?filter=primary_location.source.id:S41416626",
+        "Harvard Business Review Press eBooks": "https://api.openalex.org/works?filter=primary_location.source.id:S4306472005",
+        "Harvard-Deusto business review": "https://api.openalex.org/works?filter=primary_location.source.id:S2764344274",
+        "Harvard business review = Diamond\u30cf\u30fc\u30d0\u30fc\u30c9\u30fb\u30d3\u30b8\u30cd\u30b9\u30fb\u30ec\u30d3\u30e5\u30fc": "https://api.openalex.org/works?filter=primary_location.source.id:S4306511926"
+    },
+    "International Journal of Management Reviews": {
+        "International Journal of Management Reviews": "https://api.openalex.org/works?filter=primary_location.source.id:S87745625"
+    },
+    "Journal of Business Ethics": {
+        "Journal of Business Ethics": "https://api.openalex.org/works?filter=primary_location.source.id:S76633192"
+    },
+    "Journal of Business Research": {
+        "Journal of Business Research": "https://api.openalex.org/works?filter=primary_location.source.id:S93284759"
+    },
+    "Journal of Management Inquiry": {
+        "Journal of Management Inquiry": "https://api.openalex.org/works?filter=primary_location.source.id:S17986141"
+    },
+    "MIT Sloan Management Review": {
+        "MIT Sloan management review": "https://api.openalex.org/works?filter=primary_location.source.id:S196034224"
+    },
+    "Annual Review of Financial Economics": {
+        "Annual Review of Financial Economics": "https://api.openalex.org/works?filter=primary_location.source.id:S4210170931"
+    },
+    "Corporate Governance: An International Review": {
+        "Corporate Governance An International Review": "https://api.openalex.org/works?filter=primary_location.source.id:S77308338"
+    },
+    "European Financial Management": {
+        "European Financial Management": "https://api.openalex.org/works?filter=primary_location.source.id:S131852005"
+    },
+    "European Journal of Finance": {
+        "European Journal of Finance": "https://api.openalex.org/works?filter=primary_location.source.id:S82316188"
+    },
+    "Finance and Stochastics": {
+        "Finance and Stochastics": "https://api.openalex.org/works?filter=primary_location.source.id:S172526255"
+    },
+    "Financial Analysts Journal": {
+        "Financial Analysts Journal": "https://api.openalex.org/works?filter=primary_location.source.id:S162525099"
+    },
+    "Financial Management": {
+        "Financial Management": "https://api.openalex.org/works?filter=primary_location.source.id:S157946625"
+    },
+    "Financial Markets, Institutions and Instruments": {},
+    "Financial Review": {
+        "Review of Financial Studies": "https://api.openalex.org/works?filter=primary_location.source.id:S170137484",
+        "Financial Review": "https://api.openalex.org/works?filter=primary_location.source.id:S9351053"
+    },
+    "Insurance: Mathematics and Economics": {
+        "Insurance Mathematics and Economics": "https://api.openalex.org/works?filter=primary_location.source.id:S198325475"
+    },
+    "International Journal of Central Banking": {
+        "International journal of central banking": "https://api.openalex.org/works?filter=primary_location.source.id:S9551102"
+    },
+    "International Journal of Finance and Economics": {
+        "International Journal of Economics and Finance": "https://api.openalex.org/works?filter=primary_location.source.id:S2765010479",
+        "International Journal of Trade Economics and Finance": "https://api.openalex.org/works?filter=primary_location.source.id:S2764652570",
+        "International Journal of Health Care Finance and Economics": "https://api.openalex.org/works?filter=primary_location.source.id:S4210179812",
+        "Journal of Economics and International Finance": "https://api.openalex.org/works?filter=primary_location.source.id:S2764771702",
+        "International Journal of Monetary Economics and Finance": "https://api.openalex.org/works?filter=primary_location.source.id:S98077829",
+        "International Journal of Economics Finance and Management Sciences": "https://api.openalex.org/works?filter=primary_location.source.id:S2765032820",
+        "The International Journal of Applied Economics and Finance": "https://api.openalex.org/works?filter=primary_location.source.id:S153291349",
+        "International Journal of Applied Economics Finance and Accounting": "https://api.openalex.org/works?filter=primary_location.source.id:S4210237048",
+        "International Journal of Islamic Economics and Finance (IJIEF)": "https://api.openalex.org/works?filter=primary_location.source.id:S4210228488",
+        "International Journal of Economics and Finance Studies": "https://api.openalex.org/works?filter=primary_location.source.id:S4210226684",
+        "International Journal of Islamic Economics and Finance Studies": "https://api.openalex.org/works?filter=primary_location.source.id:S4210237420",
+        "Journal of International Finance and Economics": "https://api.openalex.org/works?filter=primary_location.source.id:S2764716688",
+        "International Journal of Islamic Economics and Finance Research": "https://api.openalex.org/works?filter=primary_location.source.id:S4387288781",
+        "International Journal of Finance Economics and Business": "https://api.openalex.org/works?filter=primary_location.source.id:S4387280695",
+        "Airlangga International Journal of Islamic Economics and Finance": "https://api.openalex.org/works?filter=primary_location.source.id:S4210175560",
+        "International Journal of Finance Economics and Trade": "https://api.openalex.org/works?filter=primary_location.source.id:S4210225451",
+        "International Journal of Advanced Research in Economics and Finance": "https://api.openalex.org/works?filter=primary_location.source.id:S4210191816",
+        "American International Journal of Economics and Finance Research": "https://api.openalex.org/works?filter=primary_location.source.id:S4210214701",
+        "Journal of Research in Economics and International Finance": "https://api.openalex.org/works?filter=primary_location.source.id:S4210200456",
+        "Journal of Economics Finance and International Business": "https://api.openalex.org/works?filter=primary_location.source.id:S4210233849",
+        "International Journal of Accounting, Finance, Auditing, Management and Economics": "https://api.openalex.org/works?filter=primary_location.source.id:S4306513879",
+        "International Journal of Research in Economics and Finance": "https://api.openalex.org/works?filter=primary_location.source.id:S5407043567"
+    },
+    "International Review of Financial Analysis": {
+        "International Review of Financial Analysis": "https://api.openalex.org/works?filter=primary_location.source.id:S145572626"
+    },
+    "Journal of Banking and Finance": {
+        "International Journal of Banking and Finance": "https://api.openalex.org/works?filter=primary_location.source.id:S4394736147",
+        "Journal of Applied Finance and Banking": "https://api.openalex.org/works?filter=primary_location.source.id:S2764458166",
+        "Journal of Banking and Finance Management": "https://api.openalex.org/works?filter=primary_location.source.id:S4387289511",
+        "Journal of Islamic Economics Banking and Finance": "https://api.openalex.org/works?filter=primary_location.source.id:S2764557015",
+        "International Journal of Banking Accounting and Finance": "https://api.openalex.org/works?filter=primary_location.source.id:S164875865",
+        "Asian Journal of Research in Banking and Finance": "https://api.openalex.org/works?filter=primary_location.source.id:S2764775425",
+        "Indian Journal of Finance and Banking": "https://api.openalex.org/works?filter=primary_location.source.id:S4210195690",
+        "Journal of Islamic Banking and Finance": "https://api.openalex.org/works?filter=primary_location.source.id:S4210188197",
+        "International Journal of Finance and Banking Research": "https://api.openalex.org/works?filter=primary_location.source.id:S4210197428",
+        "Ihtifaz Journal of Islamic Economics Finance and Banking": "https://api.openalex.org/works?filter=primary_location.source.id:S4210238584",
+        "MALIA Journal of Islamic Banking and Finance": "https://api.openalex.org/works?filter=primary_location.source.id:S4210237549",
+        "GATR Journal of Finance and Banking Review": "https://api.openalex.org/works?filter=primary_location.source.id:S4210204128",
+        "Journal of Finance and Islamic Banking": "https://api.openalex.org/works?filter=primary_location.source.id:S4210212471",
+        "IIARD INTERNATIONAL JOURNAL OF BANKING AND FINANCE RESEARCH": "https://api.openalex.org/works?filter=primary_location.source.id:S4394735937",
+        "International Journal of Islamic Banking and Finance Research": "https://api.openalex.org/works?filter=primary_location.source.id:S4210179525",
+        "JIHBIZ Global Journal of Islamic Banking and Finance": "https://api.openalex.org/works?filter=primary_location.source.id:S4210221047",
+        "Syi`ar Iqtishadi Journal of Islamic Economics Finance and Banking": "https://api.openalex.org/works?filter=primary_location.source.id:S4210180055",
+        "Sri Lankan Journal of Banking and Finance": "https://api.openalex.org/works?filter=primary_location.source.id:S4394736132",
+        "International Journal of Current Aspects in Finance Banking and Accounting": "https://api.openalex.org/works?filter=primary_location.source.id:S4210239665",
+        "Journal of Corporate Finance Management and Banking System": "https://api.openalex.org/works?filter=primary_location.source.id:S4387278972",
+        "Etihad Journal of Islamic Banking and Finance": "https://api.openalex.org/works?filter=primary_location.source.id:S4210171989",
+        "Advanced International Journal of Banking Accounting and Finance": "https://api.openalex.org/works?filter=primary_location.source.id:S4210219719",
+        "Velocity Journal of Sharia Finance and Banking": "https://api.openalex.org/works?filter=primary_location.source.id:S4387283363"
+    },
+    "Journal of Commodity Markets": {
+        "Journal of commodity markets": "https://api.openalex.org/works?filter=primary_location.source.id:S2898531903"
+    },
+    "Journal of Empirical Finance": {
+        "Journal of Empirical Finance": "https://api.openalex.org/works?filter=primary_location.source.id:S145875555"
+    },
+    "Journal of Financial Econometrics": {
+        "Journal of Financial Econometrics": "https://api.openalex.org/works?filter=primary_location.source.id:S207154782"
+    },
+    "Journal of Financial Markets": {
+        "Journal of Financial Markets": "https://api.openalex.org/works?filter=primary_location.source.id:S127646213"
+    },
+    "Journal of Financial Research": {
+        "The Journal of Financial Research": "https://api.openalex.org/works?filter=primary_location.source.id:S74917840",
+        "International Journal of Financial Research": "https://api.openalex.org/works?filter=primary_location.source.id:S2764950559",
+        "Journal of Financial Services Research": "https://api.openalex.org/works?filter=primary_location.source.id:S79175213",
+        "International Journal of Economics and Financial Research": "https://api.openalex.org/works?filter=primary_location.source.id:S4210214797",
+        "European Journal of Economic and Financial Research": "https://api.openalex.org/works?filter=primary_location.source.id:S4210234666",
+        "International journal of marketing, financial services and management research": "https://api.openalex.org/works?filter=primary_location.source.id:S2764837114",
+        "Journal of Financial Studies & Research": "https://api.openalex.org/works?filter=primary_location.source.id:S4210235239",
+        "African Journal of Accounting and Financial Research": "https://api.openalex.org/works?filter=primary_location.source.id:S4210212016",
+        "Noble International Journal of Economics and Financial Research": "https://api.openalex.org/works?filter=primary_location.source.id:S4210202169",
+        "Journal of Banking and Financial Research": "https://api.openalex.org/works?filter=primary_location.source.id:S4210228538",
+        "International journal of accounting and financial management research": "https://api.openalex.org/works?filter=primary_location.source.id:S4210172013",
+        "International Journal of Economic Research and Financial Accounting (IJERFA)": "https://api.openalex.org/works?filter=primary_location.source.id:S4387288600",
+        "International Journal of Financial Research and Business Development": "https://api.openalex.org/works?filter=primary_location.source.id:S4404674332",
+        "Journal of Economic and Financial Research": "https://api.openalex.org/works?filter=primary_location.source.id:S4210237895",
+        "Journal of Regional Financial Research": "https://api.openalex.org/works?filter=primary_location.source.id:S2764652929",
+        "Journal of Economic Studies and Financial Research": "https://api.openalex.org/works?filter=primary_location.source.id:S5407010567",
+        "World Research Journal of Financial Economics and Stochastics": "https://api.openalex.org/works?filter=primary_location.source.id:S4210170876",
+        "International Journal of Financial Research and Management Science": "https://api.openalex.org/works?filter=primary_location.source.id:S5407044887"
+    },
+    "Journal of Financial Services Research": {
+        "Journal of Financial Services Research": "https://api.openalex.org/works?filter=primary_location.source.id:S79175213"
+    },
+    "Journal of Financial Stability": {
+        "Journal of Financial Stability": "https://api.openalex.org/works?filter=primary_location.source.id:S121634618"
+    },
+    "Journal of Futures Markets": {
+        "Journal of Futures Markets": "https://api.openalex.org/works?filter=primary_location.source.id:S136612413"
+    },
+    "Journal of International Financial Markets, Institutions and Money": {},
+    "Journal of International Money and Finance": {
+        "Journal of International Money and Finance": "https://api.openalex.org/works?filter=primary_location.source.id:S10747938"
+    },
+    "Journal of Portfolio Management": {
+        "The Journal of Portfolio Management": "https://api.openalex.org/works?filter=primary_location.source.id:S143806524",
+        "Journal of Real Estate Portfolio Management": "https://api.openalex.org/works?filter=primary_location.source.id:S2764953858",
+        "Journal of Project Program & Portfolio Management": "https://api.openalex.org/works?filter=primary_location.source.id:S4210215530",
+        "International Journal of Portfolio Analysis and Management": "https://api.openalex.org/works?filter=primary_location.source.id:S4210218591"
+    },
+    "Journal of Real Estate Finance and Economics": {
+        "The Journal of Real Estate Finance and Economics": "https://api.openalex.org/works?filter=primary_location.source.id:S202178085"
+    },
+    "Journal of Risk and Insurance": {
+        "Asia-Pacific Journal of Risk and Insurance": "https://api.openalex.org/works?filter=primary_location.source.id:S4210180518",
+        "Journal of corporate governance insurance and risk management": "https://api.openalex.org/works?filter=primary_location.source.id:S4210236706",
+        "International Journal of Finance Insurance and Risk Management": "https://api.openalex.org/works?filter=primary_location.source.id:S5407019345",
+        "International Journal of Banking Risk and Insurance": "https://api.openalex.org/works?filter=primary_location.source.id:S4210172308"
+    },
+    "Mathematical Finance": {
+        "Mathematical Finance": "https://api.openalex.org/works?filter=primary_location.source.id:S133335107"
+    },
+    "Quantitative Finance": {
+        "Quantitative Finance": "https://api.openalex.org/works?filter=primary_location.source.id:S182689569"
+    },
+    "Review of Asset Pricing Studies": {
+        "The Review of Asset Pricing Studies": "https://api.openalex.org/works?filter=primary_location.source.id:S2735409286"
+    },
+    "Review of Corporate Finance Studies": {
+        "The Review of Corporate Finance Studies": "https://api.openalex.org/works?filter=primary_location.source.id:S2736251538"
+    },
+    "Review of Quantitative Finance and Accounting": {
+        "Review of Quantitative Finance and Accounting": "https://api.openalex.org/works?filter=primary_location.source.id:S62110574"
+    },
+    "Economic and Industrial Democracy": {
+        "Economic and Industrial Democracy": "https://api.openalex.org/works?filter=primary_location.source.id:S5195456"
+    },
+    "European Journal of Industrial Relations": {
+        "European Journal of Industrial Relations": "https://api.openalex.org/works?filter=primary_location.source.id:S630694"
+    },
+    "Human Resource Management Review": {
+        "Human Resource Management Review": "https://api.openalex.org/works?filter=primary_location.source.id:S185253248"
+    },
+    "ILR Review": {},
+    "Industrial Law Journal": {
+        "Industrial Law Journal": "https://api.openalex.org/works?filter=primary_location.source.id:S75019429"
+    },
+    "Industrial Relations Journal": {
+        "Industrial Relations Journal": "https://api.openalex.org/works?filter=primary_location.source.id:S140218963"
+    },
+    "International Journal of Human Resource Management": {
+        "The International Journal of Human Resource Management": "https://api.openalex.org/works?filter=primary_location.source.id:S184846731",
+        "International journal of human resource management and research": "https://api.openalex.org/works?filter=primary_location.source.id:S4210191287",
+        "International Journal of Research in Human Resource Management": "https://api.openalex.org/works?filter=primary_location.source.id:S4210227428",
+        "INTERNATIONAL JOURNAL OF MARKETING & HUMAN RESOURCE MANAGEMENT": "https://api.openalex.org/works?filter=primary_location.source.id:S4210213011",
+        "International Academic Journal of Organizational Behavior and Human Resource Management": "https://api.openalex.org/works?filter=primary_location.source.id:S4210237338",
+        "International Journal of Research in Organizational Behavior and Human Resource Management": "https://api.openalex.org/works?filter=primary_location.source.id:S2764770550"
+    },
+    "New Technology, Work and Employment": {},
+    "Work and Occupations": {
+        "Work and Occupations": "https://api.openalex.org/works?filter=primary_location.source.id:S51211322"
+    },
+    "African Affairs": {
+        "African Affairs": "https://api.openalex.org/works?filter=primary_location.source.id:S33869021"
+    },
+    "Asia Pacific Journal of Management": {
+        "Asia Pacific Journal of Management": "https://api.openalex.org/works?filter=primary_location.source.id:S107036887"
+    },
+    "International Business Review": {
+        "International Business Review": "https://api.openalex.org/works?filter=primary_location.source.id:S23343376"
+    },
+    "Journal of Common Market Studies": {
+        "JCMS Journal of Common Market Studies": "https://api.openalex.org/works?filter=primary_location.source.id:S122406424"
+    },
+    "Journal of International Management": {
+        "Journal of International Management": "https://api.openalex.org/works?filter=primary_location.source.id:S960608072"
+    },
+    "Management and Organization Review": {
+        "Management and Organization Review": "https://api.openalex.org/works?filter=primary_location.source.id:S70175541"
+    },
+    "Management International Review": {
+        "Management International Review": "https://api.openalex.org/works?filter=primary_location.source.id:S128478731"
+    },
+    "Decision Support Systems": {
+        "Decision Support Systems": "https://api.openalex.org/works?filter=primary_location.source.id:S11479521"
+    },
+    "Government Information Quarterly": {
+        "Government Information Quarterly": "https://api.openalex.org/works?filter=primary_location.source.id:S201710173"
+    },
+    "Information and Management": {
+        "Information Technology and Management": "https://api.openalex.org/works?filter=primary_location.source.id:S122922407",
+        "Academy of Information and Management Sciences journal": "https://api.openalex.org/works?filter=primary_location.source.id:S2764659262",
+        "Information Systems and e-Business Management": "https://api.openalex.org/works?filter=primary_location.source.id:S56271844",
+        "Journal of Data Information and Management": "https://api.openalex.org/works?filter=primary_location.source.id:S4210233850",
+        "International Journal of Accounting and Information Management": "https://api.openalex.org/works?filter=primary_location.source.id:S86375777",
+        "Accounting Management and Information Technologies": "https://api.openalex.org/works?filter=primary_location.source.id:S201767588",
+        "International journal of information and management sciences": "https://api.openalex.org/works?filter=primary_location.source.id:S2764623020",
+        "VINE Journal of Information and Knowledge Management Systems": "https://api.openalex.org/works?filter=primary_location.source.id:S4210228535",
+        "Interdisciplinary Journal of Information Knowledge and Management": "https://api.openalex.org/works?filter=primary_location.source.id:S2737561367",
+        "Information science and knowledge management": "https://api.openalex.org/works?filter=primary_location.source.id:S4210225032",
+        "Information Management and Business Review": "https://api.openalex.org/works?filter=primary_location.source.id:S2737009427",
+        "Journal of Information Systems and Technology Management": "https://api.openalex.org/works?filter=primary_location.source.id:S2739446383",
+        "Advances in information quality and management": "https://api.openalex.org/works?filter=primary_location.source.id:S4210206100",
+        "Journal of international technology and information management": "https://api.openalex.org/works?filter=primary_location.source.id:S2764646483",
+        "Data and Information Management": "https://api.openalex.org/works?filter=primary_location.source.id:S4210174804",
+        "Journal of Information Processing and Management": "https://api.openalex.org/works?filter=primary_location.source.id:S114875548",
+        "International journal of information systems and project management": "https://api.openalex.org/works?filter=primary_location.source.id:S2737541009",
+        "International Journal of Information Technology and Management": "https://api.openalex.org/works?filter=primary_location.source.id:S169712084",
+        "Collnet Journal of Scientometrics and Information Management": "https://api.openalex.org/works?filter=primary_location.source.id:S2764846277",
+        "International Journal of Information Systems and Supply Chain Management": "https://api.openalex.org/works?filter=primary_location.source.id:S62270215",
+        "International Journal of Asian Business and Information Management": "https://api.openalex.org/works?filter=primary_location.source.id:S164447516",
+        "Accounting and Management Information Systems": "https://api.openalex.org/works?filter=primary_location.source.id:S4210194336",
+        "Information Technology and Management Science": "https://api.openalex.org/works?filter=primary_location.source.id:S2739009059",
+        "Journal of Accounting and Management Information Systems": "https://api.openalex.org/works?filter=primary_location.source.id:S2764691195",
+        "International Conference on Information Systems for Crisis Response and Management": "https://api.openalex.org/works?filter=primary_location.source.id:S4306419567"
+    },
+    "Information and Organization": {
+        "Information and Organization": "https://api.openalex.org/works?filter=primary_location.source.id:S35363033"
+    },
+    "Information Society": {
+        "The Information Society": "https://api.openalex.org/works?filter=primary_location.source.id:S144363146",
+        "Universal Access in the Information Society": "https://api.openalex.org/works?filter=primary_location.source.id:S30338973",
+        "Information Communication & Society": "https://api.openalex.org/works?filter=primary_location.source.id:S70010600",
+        "Journal of the American Society for Information Science": "https://api.openalex.org/works?filter=primary_location.source.id:S4210220780",
+        "Journal of the American Society for Information Science and Technology": "https://api.openalex.org/works?filter=primary_location.source.id:S80113298",
+        "tripleC Communication Capitalism & Critique Open Access Journal for a Global Sustainable Information Society": "https://api.openalex.org/works?filter=primary_location.source.id:S4210182128",
+        "Identity in the Information Society": "https://api.openalex.org/works?filter=primary_location.source.id:S4210188806",
+        "Journal of the Society for Information Display": "https://api.openalex.org/works?filter=primary_location.source.id:S184312719",
+        "International Association for Development of the Information Society": "https://api.openalex.org/works?filter=primary_location.source.id:S2764846635",
+        "Society for Information Technology & Teacher Education International Conference": "https://api.openalex.org/works?filter=primary_location.source.id:S4306530332",
+        "Proceedings of the American Society for Information Science and Technology": "https://api.openalex.org/works?filter=primary_location.source.id:S4306523999",
+        "International Conference on Information Society": "https://api.openalex.org/works?filter=primary_location.source.id:S4306419565",
+        "Journal of Information Communication and Ethics in Society": "https://api.openalex.org/works?filter=primary_location.source.id:S102320310",
+        "Journal of Korea Spatial Information Society": "https://api.openalex.org/works?filter=primary_location.source.id:S4210194840",
+        "Bulletin of the American Society for Information Science and Technology": "https://api.openalex.org/works?filter=primary_location.source.id:S105116163",
+        "Information Society & Media": "https://api.openalex.org/works?filter=primary_location.source.id:S4210232011",
+        "Information Society": "https://api.openalex.org/works?filter=primary_location.source.id:S4210239535"
+    },
+    "Information Systems Frontiers": {
+        "Information Systems Frontiers": "https://api.openalex.org/works?filter=primary_location.source.id:S181659395"
+    },
+    "Information Technology and People": {
+        "Information Technology and People": "https://api.openalex.org/works?filter=primary_location.source.id:S185256354"
+    },
+    "International Journal of Electronic Commerce": {
+        "International Journal of Electronic Commerce": "https://api.openalex.org/works?filter=primary_location.source.id:S18436875"
+    },
+    "Internet Research": {
+        "Journal of Medical Internet Research": "https://api.openalex.org/works?filter=primary_location.source.id:S17147534",
+        "Internet Research": "https://api.openalex.org/works?filter=primary_location.source.id:S63576417"
+    },
+    "Journal of Computer-Mediated Communication": {
+        "Journal of Computer-Mediated Communication": "https://api.openalex.org/works?filter=primary_location.source.id:S30594836"
+    },
+    "Journal of the Association for Information Science and Technology (JASIST)": {},
+    "Industry and Innovation": {
+        "Industry and Innovation": "https://api.openalex.org/works?filter=primary_location.source.id:S36209479"
+    },
+    "Journal of Technology Transfer": {
+        "The Journal of Technology Transfer": "https://api.openalex.org/works?filter=primary_location.source.id:S185905316",
+        "International Journal of Technology Transfer and Commercialisation": "https://api.openalex.org/works?filter=primary_location.source.id:S52073566"
+    },
+    "R and D Management": {
+        "R and D Management": "https://api.openalex.org/works?filter=primary_location.source.id:S43637407"
+    },
+    "Technological Forecasting and Social Change": {
+        "Technological Forecasting and Social Change": "https://api.openalex.org/works?filter=primary_location.source.id:S39307421"
+    },
+    "Technovation": {
+        "Technovation": "https://api.openalex.org/works?filter=primary_location.source.id:S70698675"
+    },
+    "Management Learning": {
+        "Management Learning": "https://api.openalex.org/works?filter=primary_location.source.id:S99768379"
+    },
+    "Studies in Higher Education": {
+        "Studies in Higher Education": "https://api.openalex.org/works?filter=primary_location.source.id:S162196882"
+    },
+    "European Journal of Marketing": {
+        "European Journal of Marketing": "https://api.openalex.org/works?filter=primary_location.source.id:S89389284"
+    },
+    "Industrial Marketing Management": {
+        "Industrial Marketing Management": "https://api.openalex.org/works?filter=primary_location.source.id:S31748134"
+    },
+    "International Marketing Review": {
+        "International Marketing Review": "https://api.openalex.org/works?filter=primary_location.source.id:S35673206"
+    },
+    "Journal of Advertising": {
+        "Journal of Advertising": "https://api.openalex.org/works?filter=primary_location.source.id:S103311983"
+    },
+    "Journal of Advertising Research": {
+        "Journal of Advertising Research": "https://api.openalex.org/works?filter=primary_location.source.id:S61992289"
+    },
+    "Journal of Interactive Marketing": {
+        "Journal of Interactive Marketing": "https://api.openalex.org/works?filter=primary_location.source.id:S92709572"
+    },
+    "Journal of International Marketing": {
+        "Journal of International Marketing": "https://api.openalex.org/works?filter=primary_location.source.id:S119908498"
+    },
+    "Journal of Public Policy and Marketing": {},
+    "Marketing Letters": {
+        "Marketing Letters": "https://api.openalex.org/works?filter=primary_location.source.id:S148909191"
+    },
+    "Marketing Theory": {
+        "Marketing Theory": "https://api.openalex.org/works?filter=primary_location.source.id:S195188575"
+    },
+    "Psychology and Marketing": {
+        "Psychology and Marketing": "https://api.openalex.org/works?filter=primary_location.source.id:S102896891"
+    },
+    "Quantitative Marketing and Economics": {
+        "Quantitative Marketing and Economics": "https://api.openalex.org/works?filter=primary_location.source.id:S4210206015"
+    },
+    "Computers in Industry": {
+        "Computers in Industry": "https://api.openalex.org/works?filter=primary_location.source.id:S60779006"
+    },
+    "IEEE Transactions on Engineering Management": {
+        "IEEE Transactions on Engineering Management": "https://api.openalex.org/works?filter=primary_location.source.id:S154533451"
+    },
+    "International Journal of Production Economics": {
+        "International Journal of Production Economics": "https://api.openalex.org/works?filter=primary_location.source.id:S184816971"
+    },
+    "International Journal of Production Research": {
+        "International Journal of Production Research": "https://api.openalex.org/works?filter=primary_location.source.id:S65690446"
+    },
+    "Journal of Business Logistics": {
+        "Journal of Business Logistics": "https://api.openalex.org/works?filter=primary_location.source.id:S38350834"
+    },
+    "Journal of Purchasing and Supply Management": {
+        "Journal of Purchasing and Supply Management": "https://api.openalex.org/works?filter=primary_location.source.id:S55239356"
+    },
+    "Manufacturing and Service Operations Management": {
+        "Manufacturing and Service Operations Management": "https://api.openalex.org/works?filter=primary_location.source.id:S4387283032"
+    },
+    "Production Planning and Control": {},
+    "Supply Chain Management": {
+        "Supply Chain Management An International Journal": "https://api.openalex.org/works?filter=primary_location.source.id:S59007373",
+        "Journal of Supply Chain Management": "https://api.openalex.org/works?filter=primary_location.source.id:S97320426",
+        "Uncertain Supply Chain Management": "https://api.openalex.org/works?filter=primary_location.source.id:S2764616245",
+        "Supply chain management review": "https://api.openalex.org/works?filter=primary_location.source.id:S2764774554",
+        "Journal of Humanitarian Logistics and Supply Chain Management": "https://api.openalex.org/works?filter=primary_location.source.id:S4210172729",
+        "Operations and Supply Chain Management An International Journal": "https://api.openalex.org/works?filter=primary_location.source.id:S4210226436",
+        "Journal of Transport and Supply Chain Management": "https://api.openalex.org/works?filter=primary_location.source.id:S2764671874",
+        "Springer series in supply chain management": "https://api.openalex.org/works?filter=primary_location.source.id:S4210229439",
+        "International Journal of Information Systems and Supply Chain Management": "https://api.openalex.org/works?filter=primary_location.source.id:S62270215",
+        "Journal of Operations and Supply Chain Management": "https://api.openalex.org/works?filter=primary_location.source.id:S2764392330",
+        "Supply Chain Management": "https://api.openalex.org/works?filter=primary_location.source.id:S4210177630"
+    },
+    "ACM Transactions on Modeling and Computer Simulation": {
+        "ACM Transactions on Modeling and Computer Simulation": "https://api.openalex.org/works?filter=primary_location.source.id:S38703467"
+    },
+    "Annals of Operations Research": {
+        "Annals of Operations Research": "https://api.openalex.org/works?filter=primary_location.source.id:S57667410"
+    },
+    "Computational Optimization and Applications": {
+        "Computational Optimization and Applications": "https://api.openalex.org/works?filter=primary_location.source.id:S39243548"
+    },
+    "Computers and Operations Research": {
+        "Series on computers and operations research": "https://api.openalex.org/works?filter=primary_location.source.id:S4210189114"
+    },
+    "Decision Sciences": {
+        "Decision Sciences": "https://api.openalex.org/works?filter=primary_location.source.id:S177792750"
+    },
+    "Evolutionary Computation": {
+        "IEEE Transactions on Evolutionary Computation": "https://api.openalex.org/works?filter=primary_location.source.id:S93787993",
+        "Evolutionary Computation": "https://api.openalex.org/works?filter=primary_location.source.id:S38677346"
+    },
+    "Fuzzy Optimization and Decision Making": {
+        "Fuzzy Optimization and Decision Making": "https://api.openalex.org/works?filter=primary_location.source.id:S93986401"
+    },
+    "IEEE Transactions on Cybernetics": {
+        "IEEE Transactions on Cybernetics": "https://api.openalex.org/works?filter=primary_location.source.id:S4210191041"
+    },
+    "IEEE Transactions on Systems, Man, and Cybernetics: Systems": {},
+    "INFORMS Journal on Computing": {
+        "INFORMS journal on computing": "https://api.openalex.org/works?filter=primary_location.source.id:S165318533",
+        "INFORMS Journal on Computing": "https://api.openalex.org/works?filter=primary_location.source.id:S4210237176"
+    },
+    "International Journal of Forecasting": {
+        "International Journal of Forecasting": "https://api.openalex.org/works?filter=primary_location.source.id:S39841227"
+    },
+    "Journal of Heuristics": {
+        "Journal of Heuristics": "https://api.openalex.org/works?filter=primary_location.source.id:S111418578"
+    },
+    "Journal of Optimization Theory and Applications": {
+        "Journal of Optimization Theory and Applications": "https://api.openalex.org/works?filter=primary_location.source.id:S52430896"
+    },
+    "Journal of the Operational Research Society": {
+        "Journal of the Operational Research Society": "https://api.openalex.org/works?filter=primary_location.source.id:S169988927"
+    },
+    "Mathematics of Operations Research": {
+        "Mathematics of Operations Research": "https://api.openalex.org/works?filter=primary_location.source.id:S55826652"
+    },
+    "Naval Research Logistics": {
+        "Naval Research Logistics Quarterly": "https://api.openalex.org/works?filter=primary_location.source.id:S160089246",
+        "Naval Research Logistics (NRL)": "https://api.openalex.org/works?filter=primary_location.source.id:S182666042"
+    },
+    "Omega": {
+        "ACS Omega": "https://api.openalex.org/works?filter=primary_location.source.id:S4210239500",
+        "Omega": "https://api.openalex.org/works?filter=primary_location.source.id:S4210190151"
+    },
+    "OR Spectrum": {
+        "OR Spectrum": "https://api.openalex.org/works?filter=primary_location.source.id:S2502551423"
+    },
+    "Reliability Engineering and System Safety": {},
+    "SIAM Journal on Optimization": {
+        "SIAM Journal on Optimization": "https://api.openalex.org/works?filter=primary_location.source.id:S928796702"
+    },
+    "Transportation Science": {
+        "Transportation Science": "https://api.openalex.org/works?filter=primary_location.source.id:S130252234"
+    },
+    "Group and Organization Management": {},
+    "Organization": {
+        "CERN Document Server (European Organization for Nuclear Research)": "https://api.openalex.org/works?filter=primary_location.source.id:S4306402194",
+        "Organization Science": "https://api.openalex.org/works?filter=primary_location.source.id:S206124708",
+        "Zenodo (CERN European Organization for Nuclear Research)": "https://api.openalex.org/works?filter=primary_location.source.id:S4306400562",
+        "International Organization": "https://api.openalex.org/works?filter=primary_location.source.id:S160686149",
+        "Organization Studies": "https://api.openalex.org/works?filter=primary_location.source.id:S28882882",
+        "Journal of Economic Behavior & Organization": "https://api.openalex.org/works?filter=primary_location.source.id:S62201805",
+        "Organization": "https://api.openalex.org/works?filter=primary_location.source.id:S72915307"
+    },
+    "Organization and Environment": {},
+    "Organizational Dynamics": {
+        "Organizational Dynamics": "https://api.openalex.org/works?filter=primary_location.source.id:S195297104"
+    },
+    "Research in Organizational Behavior": {
+        "Research in Organizational Behavior": "https://api.openalex.org/works?filter=primary_location.source.id:S55099511"
+    },
+    "Research in the Sociology of Organizations": {
+        "Research in the sociology of organizations": "https://api.openalex.org/works?filter=primary_location.source.id:S4210170888"
+    },
+    "British Journal of Psychology": {
+        "British Journal of Psychology": "https://api.openalex.org/works?filter=primary_location.source.id:S179213746"
+    },
+    "British Journal of Social Psychology": {
+        "British Journal of Social Psychology": "https://api.openalex.org/works?filter=primary_location.source.id:S179906392"
+    },
+    "Cognitive Science": {
+        "Cognitive Science": "https://api.openalex.org/works?filter=primary_location.source.id:S78735424"
+    },
+    "European Journal of Social Psychology": {
+        "European Journal of Social Psychology": "https://api.openalex.org/works?filter=primary_location.source.id:S10288104"
+    },
+    "Journal of Behavioral Decision Making": {
+        "Journal of Behavioral Decision Making": "https://api.openalex.org/works?filter=primary_location.source.id:S117214846"
+    },
+    "Journal of Conflict Resolution": {
+        "Journal of Conflict Resolution": "https://api.openalex.org/works?filter=primary_location.source.id:S20177303"
+    },
+    "Journal of Cross-Cultural Psychology": {
+        "Journal of Cross-Cultural Psychology": "https://api.openalex.org/works?filter=primary_location.source.id:S23753256"
+    },
+    "Journal of Experimental Psychology: Learning Memory and Cognition": {
+        "Journal of Experimental Psychology Learning Memory and Cognition": "https://api.openalex.org/works?filter=primary_location.source.id:S18666220"
+    },
+    "Judgment and Decision Making": {
+        "Judgment and Decision Making": "https://api.openalex.org/works?filter=primary_location.source.id:S179575189"
+    },
+    "Personality and Individual Differences": {
+        "Personality and Individual Differences": "https://api.openalex.org/works?filter=primary_location.source.id:S151331055"
+    },
+    "Psychological Research": {
+        "Psychological Research": "https://api.openalex.org/works?filter=primary_location.source.id:S35819839"
+    },
+    "Psychology of Women Quarterly": {
+        "Psychology of Women Quarterly": "https://api.openalex.org/works?filter=primary_location.source.id:S30211177"
+    },
+    "Psychometrika": {
+        "Psychometrika": "https://api.openalex.org/works?filter=primary_location.source.id:S186480540"
+    },
+    "Quarterly Journal of Experimental Psychology": {
+        "Quarterly Journal of Experimental Psychology": "https://api.openalex.org/works?filter=primary_location.source.id:S59062809"
+    },
+    "Social Psychological and Personality Science": {
+        "Social Psychological and Personality Science": "https://api.openalex.org/works?filter=primary_location.source.id:S138235560"
+    },
+    "Accident Analysis and Prevention": {},
+    "Applied Ergonomics": {
+        "Applied Ergonomics": "https://api.openalex.org/works?filter=primary_location.source.id:S94432539"
+    },
+    "Applied Psychology": {
+        "Journal of Applied Psychology": "https://api.openalex.org/works?filter=primary_location.source.id:S166002381",
+        "Applied Psychology": "https://api.openalex.org/works?filter=primary_location.source.id:S47864991"
+    },
+    "Ergonomics": {
+        "Ergonomics": "https://api.openalex.org/works?filter=primary_location.source.id:S72159247"
+    },
+    "European Journal of Work and Organizational Psychology": {
+        "European Journal of Work and Organizational Psychology": "https://api.openalex.org/works?filter=primary_location.source.id:S187270080"
+    },
+    "Human Factors": {
+        "Human Factors The Journal of the Human Factors and Ergonomics Society": "https://api.openalex.org/works?filter=primary_location.source.id:S83386566",
+        "Proceedings of the Human Factors and Ergonomics Society Annual Meeting": "https://api.openalex.org/works?filter=primary_location.source.id:S4210176815",
+        "JMIR Human Factors": "https://api.openalex.org/works?filter=primary_location.source.id:S4210199510",
+        "Proceedings of the Human Factors Society Annual Meeting": "https://api.openalex.org/works?filter=primary_location.source.id:S4210212499",
+        "Human Factors and Ergonomics in Manufacturing & Service Industries": "https://api.openalex.org/works?filter=primary_location.source.id:S45498333",
+        "CHI Conference on Human Factors in Computing Systems": "https://api.openalex.org/works?filter=primary_location.source.id:S4363607743",
+        "Human factors and ergonomics": "https://api.openalex.org/works?filter=primary_location.source.id:S4210169280",
+        "Ergonomics in Design The Quarterly of Human Factors Applications": "https://api.openalex.org/works?filter=primary_location.source.id:S88439605",
+        "IEEE Transactions on Human Factors in Electronics": "https://api.openalex.org/works?filter=primary_location.source.id:S169783023",
+        "Transportation Human Factors": "https://api.openalex.org/works?filter=primary_location.source.id:S110771009",
+        "Reviews of Human Factors and Ergonomics": "https://api.openalex.org/works?filter=primary_location.source.id:S137975899",
+        "CHI Conference on Human Factors in Computing Systems Extended Abstracts": "https://api.openalex.org/works?filter=primary_location.source.id:S4363607762",
+        "Human Factors in Computing Systems": "https://api.openalex.org/works?filter=primary_location.source.id:S4306418550",
+        "Advances in human factors/ergonomics": "https://api.openalex.org/works?filter=primary_location.source.id:S4210184105",
+        "IRE transactions on human factors in electronics": "https://api.openalex.org/works?filter=primary_location.source.id:S4210230777",
+        "IISE Transactions on Occupational Ergonomics and Human Factors": "https://api.openalex.org/works?filter=primary_location.source.id:S4210215030",
+        "International Journal of Human Factors in Manufacturing": "https://api.openalex.org/works?filter=primary_location.source.id:S4637756",
+        "Aviation Psychology and Applied Human Factors": "https://api.openalex.org/works?filter=primary_location.source.id:S4210218385",
+        "International Journal of Human Factors and Ergonomics": "https://api.openalex.org/works?filter=primary_location.source.id:S4210182011",
+        "Advances in human factors and ergonomics series": "https://api.openalex.org/works?filter=primary_location.source.id:S4210190683",
+        "International Journal of Human Factors Modelling and Simulation": "https://api.openalex.org/works?filter=primary_location.source.id:S183335753",
+        "IIE Transactions on Occupational Ergonomics and Human Factors": "https://api.openalex.org/works?filter=primary_location.source.id:S4210193218",
+        "Human factors in information technology": "https://api.openalex.org/works?filter=primary_location.source.id:S135852854",
+        "Human Factors in Healthcare": "https://api.openalex.org/works?filter=primary_location.source.id:S4210192336",
+        "Proceedings of the International Symposium on Human Factors and Ergonomics in Health Care": "https://api.openalex.org/works?filter=primary_location.source.id:S4210177215"
+    },
+    "Human Performance": {
+        "Organizational Behavior and Human Performance": "https://api.openalex.org/works?filter=primary_location.source.id:S157779219",
+        "Human Performance": "https://api.openalex.org/works?filter=primary_location.source.id:S3835251"
+    },
+    "International Journal of Rehabilitation Research": {
+        "International Journal of Rehabilitation Research": "https://api.openalex.org/works?filter=primary_location.source.id:S64299112"
+    },
+    "Journal of Business and Psychology": {
+        "Journal of Business and Psychology": "https://api.openalex.org/works?filter=primary_location.source.id:S61413993"
+    },
+    "Journal of Managerial Psychology": {
+        "Journal of Managerial Psychology": "https://api.openalex.org/works?filter=primary_location.source.id:S53726244"
+    },
+    "Journal of School Psychology": {
+        "Journal of School Psychology": "https://api.openalex.org/works?filter=primary_location.source.id:S69627091"
+    },
+    "Occupational and Environmental Medicine": {
+        "Occupational and Environmental Medicine": "https://api.openalex.org/works?filter=primary_location.source.id:S159252376"
+    },
+    "Scandinavian Journal of Work, Environment and Health": {},
+    "American Review of Public Administration": {
+        "The American Review of Public Administration": "https://api.openalex.org/works?filter=primary_location.source.id:S106702950"
+    },
+    "Health Services Research": {
+        "BMC Health Services Research": "https://api.openalex.org/works?filter=primary_location.source.id:S12898181",
+        "Health Services Research": "https://api.openalex.org/works?filter=primary_location.source.id:S2228914"
+    },
+    "International Public Management Journal": {
+        "International Public Management Journal": "https://api.openalex.org/works?filter=primary_location.source.id:S63571029"
+    },
+    "International Review of Administrative Sciences": {
+        "International Review of Administrative Sciences": "https://api.openalex.org/works?filter=primary_location.source.id:S16140064"
+    },
+    "Journal of European Public Policy": {
+        "Journal of European Public Policy": "https://api.openalex.org/works?filter=primary_location.source.id:S22371039"
+    },
+    "Journal of Policy Analysis and Management": {
+        "Journal of Policy Analysis and Management": "https://api.openalex.org/works?filter=primary_location.source.id:S25370267"
+    },
+    "Milbank Quarterly": {
+        "Milbank Quarterly": "https://api.openalex.org/works?filter=primary_location.source.id:S1650206"
+    },
+    "Policy and Politics": {
+        "International Journal of Sport Policy and Politics": "https://api.openalex.org/works?filter=primary_location.source.id:S2764962534",
+        "Journal of Health Politics Policy and Law": "https://api.openalex.org/works?filter=primary_location.source.id:S192655146",
+        "Health Care Policy and Politics A to Z": "https://api.openalex.org/works?filter=primary_location.source.id:S4363605075",
+        "Election Law Journal Rules Politics and Policy": "https://api.openalex.org/works?filter=primary_location.source.id:S151257747",
+        "Statistics Politics and Policy": "https://api.openalex.org/works?filter=primary_location.source.id:S119134901",
+        "Regional Politics and Policy": "https://api.openalex.org/works?filter=primary_location.source.id:S4210214374",
+        "California Journal of Politics and Policy": "https://api.openalex.org/works?filter=primary_location.source.id:S56288242",
+        "Journal of Politics and Policy": "https://api.openalex.org/works?filter=primary_location.source.id:S4210187216",
+        "Indonesian Journal of Social Sciences, Policy and Politics.": "https://api.openalex.org/works?filter=primary_location.source.id:S4404675522",
+        "THE INDONESIAN JOURNAL OF POLITICS AND POLICY (IJPP)": "https://api.openalex.org/works?filter=primary_location.source.id:S4210178565",
+        "Bridges Conversations in Global Politics and Public Policy": "https://api.openalex.org/works?filter=primary_location.source.id:S4210169750",
+        "International Journal of Politics Public Policy and Social Works": "https://api.openalex.org/works?filter=primary_location.source.id:S4210235983",
+        "Review of Politics and Public Policy in Emerging Economies": "https://api.openalex.org/works?filter=primary_location.source.id:S4210191820",
+        "Palgrave Studies in Religion, Politics, and Policy": "https://api.openalex.org/works?filter=primary_location.source.id:S4393919345",
+        "Immigrants and minorities, politics and policy": "https://api.openalex.org/works?filter=primary_location.source.id:S4210206943",
+        "International Journal of Politics and Public Policy.": "https://api.openalex.org/works?filter=primary_location.source.id:S4404676793",
+        "Wellbeing in politics and policy.": "https://api.openalex.org/works?filter=primary_location.source.id:S4404663109"
+    },
+    "Regulation and Governance": {
+        "Digital Policy Regulation and Governance": "https://api.openalex.org/works?filter=primary_location.source.id:S4210238510",
+        "International Journal of Regulation and Governance": "https://api.openalex.org/works?filter=primary_location.source.id:S2764355551",
+        "Journal of Governance and Regulation": "https://api.openalex.org/works?filter=primary_location.source.id:S2764670738",
+        "Journal of Law and Regulation Governance": "https://api.openalex.org/works?filter=primary_location.source.id:S5407042304",
+        "Public Governance Regulation and Law": "https://api.openalex.org/works?filter=primary_location.source.id:S5407052761"
+    },
+    "Cambridge Journal of Regions, Economy and Society": {},
+    "Environment and Planning A": {
+        "Environment and Planning A Economy and Space": "https://api.openalex.org/works?filter=primary_location.source.id:S87933477"
+    },
+    "European Urban and Regional Studies": {
+        "European Urban and Regional Studies": "https://api.openalex.org/works?filter=primary_location.source.id:S126499095"
+    },
+    "Global Environmental Change": {
+        "Global Environmental Change": "https://api.openalex.org/works?filter=primary_location.source.id:S130750583"
+    },
+    "Journal of Regional Science": {
+        "Journal of Regional Science": "https://api.openalex.org/works?filter=primary_location.source.id:S65528657"
+    },
+    "Journal of Rural Studies": {
+        "Journal of Rural Studies": "https://api.openalex.org/works?filter=primary_location.source.id:S28036099"
+    },
+    "Papers in Regional Science": {},
+    "Regional Science and Urban Economics": {
+        "Regional Science and Urban Economics": "https://api.openalex.org/works?filter=primary_location.source.id:S107631327"
+    },
+    "Urban Studies": {
+        "Urban Studies": "https://api.openalex.org/works?filter=primary_location.source.id:S50366009"
+    },
+    "Energy Journal": {
+        "International Journal of Hydrogen Energy": "https://api.openalex.org/works?filter=primary_location.source.id:S48860480",
+        "Journal of High Energy Physics": "https://api.openalex.org/works?filter=primary_location.source.id:S187585107",
+        "The Energy Journal": "https://api.openalex.org/works?filter=primary_location.source.id:S102805530",
+        "Journal of Energy Storage": "https://api.openalex.org/works?filter=primary_location.source.id:S2764865925",
+        "International Journal of Electrical Power & Energy Systems": "https://api.openalex.org/works?filter=primary_location.source.id:S168377509",
+        "Journal of Energy Chemistry": "https://api.openalex.org/works?filter=primary_location.source.id:S2500128275",
+        "International Journal of Energy Research": "https://api.openalex.org/works?filter=primary_location.source.id:S32776067",
+        "Journal of Solar Energy Engineering": "https://api.openalex.org/works?filter=primary_location.source.id:S201326824",
+        "Journal of Energy Resources Technology": "https://api.openalex.org/works?filter=primary_location.source.id:S17843412",
+        "Journal of the Energy Institute": "https://api.openalex.org/works?filter=primary_location.source.id:S178232084",
+        "Journal of Renewable and Sustainable Energy": "https://api.openalex.org/works?filter=primary_location.source.id:S168707975",
+        "International Journal of Green Energy": "https://api.openalex.org/works?filter=primary_location.source.id:S65809584",
+        "International Journal of Ambient Energy": "https://api.openalex.org/works?filter=primary_location.source.id:S2764410149",
+        "International Energy Journal": "https://api.openalex.org/works?filter=primary_location.source.id:S2764903594",
+        "Journal of Modern Power Systems and Clean Energy": "https://api.openalex.org/works?filter=primary_location.source.id:S4210194934",
+        "CSEE Journal of Power and Energy Systems": "https://api.openalex.org/works?filter=primary_location.source.id:S2764607435",
+        "Journal of Energy Engineering": "https://api.openalex.org/works?filter=primary_location.source.id:S23575585",
+        "Journal of Fusion Energy": "https://api.openalex.org/works?filter=primary_location.source.id:S125685628",
+        "International Journal of Energy Economics and Policy": "https://api.openalex.org/works?filter=primary_location.source.id:S2764470041",
+        "International Journal of Renewable Energy Research": "https://api.openalex.org/works?filter=primary_location.source.id:S2764453333",
+        "International Journal of Sustainable Energy": "https://api.openalex.org/works?filter=primary_location.source.id:S139968001",
+        "Distributed Generation & Alternative Energy Journal": "https://api.openalex.org/works?filter=primary_location.source.id:S4210184897",
+        "Proceedings of the Institution of Mechanical Engineers Part A Journal of Power and Energy": "https://api.openalex.org/works?filter=primary_location.source.id:S109525458",
+        "Journal of Energy": "https://api.openalex.org/works?filter=primary_location.source.id:S4210230373",
+        "Journal of Physics Energy": "https://api.openalex.org/works?filter=primary_location.source.id:S4210231992"
+    },
+    "European Sport Management Quarterly": {
+        "European Sport Management Quarterly": "https://api.openalex.org/works?filter=primary_location.source.id:S112345165"
+    },
+    "Food Policy": {
+        "Food Policy": "https://api.openalex.org/works?filter=primary_location.source.id:S63571384"
+    },
+    "International Journal of Contemporary Hospitality Management": {
+        "International Journal of Contemporary Hospitality Management": "https://api.openalex.org/works?filter=primary_location.source.id:S125977778"
+    },
+    "International Journal of Hospitality Management": {
+        "International Journal of Hospitality Management": "https://api.openalex.org/works?filter=primary_location.source.id:S148599315"
+    },
+    "Journal of Sustainable Tourism": {
+        "Journal of Sustainable Tourism": "https://api.openalex.org/works?filter=primary_location.source.id:S167854760"
+    },
+    "Nonprofit and Voluntary Sector Quarterly": {
+        "Nonprofit and Voluntary Sector Quarterly": "https://api.openalex.org/works?filter=primary_location.source.id:S168572994"
+    },
+    "Transportation Research, Part A: Policy and Practice": {},
+    "Transportation Research, Part D: Transport and Environment": {},
+    "Transportation Research, Part E: Logistics and Transportation Review": {},
+    "Antipode": {
+        "Antipode": "https://api.openalex.org/works?filter=primary_location.source.id:S47624153"
+    },
+    "British Journal of Sociology": {
+        "British Journal of Sociology": "https://api.openalex.org/works?filter=primary_location.source.id:S173252385"
+    },
+    "Business Strategy and the Environment": {
+        "Business Strategy and the Environment": "https://api.openalex.org/works?filter=primary_location.source.id:S205793605"
+    },
+    "Development and Change": {
+        "Development and Change": "https://api.openalex.org/works?filter=primary_location.source.id:S137192870"
+    },
+    "Economy and Society": {
+        "Economy and Society": "https://api.openalex.org/works?filter=primary_location.source.id:S25250876"
+    },
+    "Electoral Studies": {
+        "Electoral Studies": "https://api.openalex.org/works?filter=primary_location.source.id:S124584455"
+    },
+    "Environmental Science & Technology": {},
+    "Environmental Science and Policy": {},
+    "European Sociological Review": {
+        "European Sociological Review": "https://api.openalex.org/works?filter=primary_location.source.id:S159327246"
+    },
+    "Global Networks": {
+        "Global Networks": "https://api.openalex.org/works?filter=primary_location.source.id:S135713760"
+    },
+    "Industrial and Corporate Change": {
+        "Industrial and Corporate Change": "https://api.openalex.org/works?filter=primary_location.source.id:S145507837"
+    },
+    "Journal of Development Studies": {
+        "The Journal of Development Studies": "https://api.openalex.org/works?filter=primary_location.source.id:S61808140",
+        "Canadian Journal of Development Studies/Revue canadienne d \u00e9tudes du d\u00e9veloppement": "https://api.openalex.org/works?filter=primary_location.source.id:S2912707458",
+        "Ghana Journal of Development Studies": "https://api.openalex.org/works?filter=primary_location.source.id:S2764465405",
+        "Africanus Journal of Development Studies": "https://api.openalex.org/works?filter=primary_location.source.id:S56303458",
+        "European Journal of Development Studies": "https://api.openalex.org/works?filter=primary_location.source.id:S4210237711",
+        "Revista iberoamericana de estudios de desarrollo = Iberoamerican journal of development studies": "https://api.openalex.org/works?filter=primary_location.source.id:S2737938650",
+        "African Journal of Development Studies (formerly AFFRIKA Journal of Politics Economics and Society)": "https://api.openalex.org/works?filter=primary_location.source.id:S4210209591",
+        "Research Nepal Journal of Development Studies": "https://api.openalex.org/works?filter=primary_location.source.id:S4210193491",
+        "Tanzania Journal of Development Studies": "https://api.openalex.org/works?filter=primary_location.source.id:S4210202850",
+        "Journal of African Studies and Development": "https://api.openalex.org/works?filter=primary_location.source.id:S4210238483",
+        "Journal of Indonesian Tourism and Development Studies": "https://api.openalex.org/works?filter=primary_location.source.id:S2764345206",
+        "Journal of Economics and Development Studies": "https://api.openalex.org/works?filter=primary_location.source.id:S4210183396",
+        "Journal of Policy and Development Studies": "https://api.openalex.org/works?filter=primary_location.source.id:S5406957998",
+        "CALEB INTERNATIONAL JOURNAL OF DEVELOPMENT STUDIES": "https://api.openalex.org/works?filter=primary_location.source.id:S4404678029",
+        "International Journal of Peace and Development Studies": "https://api.openalex.org/works?filter=primary_location.source.id:S4210209470",
+        "Journal of Asian Development Studies": "https://api.openalex.org/works?filter=primary_location.source.id:S5406988342",
+        "Journal of Education Management and Development Studies": "https://api.openalex.org/works?filter=primary_location.source.id:S4210202557",
+        "International Journal of Educational Management and Development Studies": "https://api.openalex.org/works?filter=primary_location.source.id:S4210183981",
+        "Journal of Social Development Studies": "https://api.openalex.org/works?filter=primary_location.source.id:S4210215630",
+        "Journal of Development and Communication Studies": "https://api.openalex.org/works?filter=primary_location.source.id:S4210224369",
+        "Journal of Management and Development Studies": "https://api.openalex.org/works?filter=primary_location.source.id:S4210198416",
+        "Nepalese Journal of Development and Rural Studies": "https://api.openalex.org/works?filter=primary_location.source.id:S4210225579",
+        "Journal of Development Economic and Social Studies.": "https://api.openalex.org/works?filter=primary_location.source.id:S4404669475",
+        "Journal of Child Development Studies": "https://api.openalex.org/works?filter=primary_location.source.id:S4210191263",
+        "JOURNAL OF DEVELOPMENT STUDIES": "https://api.openalex.org/works?filter=primary_location.source.id:S5407019168"
+    },
+    "Journal of European Social Policy": {
+        "Journal of European Social Policy": "https://api.openalex.org/works?filter=primary_location.source.id:S187013691"
+    },
+    "Journal of Social Policy": {
+        "Journal of Social Policy": "https://api.openalex.org/works?filter=primary_location.source.id:S178021067"
+    },
+    "New Political Economy": {
+        "New Political Economy": "https://api.openalex.org/works?filter=primary_location.source.id:S146242404"
+    },
+    "Politics and Society": {
+        "Latin American Politics and Society": "https://api.openalex.org/works?filter=primary_location.source.id:S195250056",
+        "European Politics and Society": "https://api.openalex.org/works?filter=primary_location.source.id:S2764397878",
+        "Perspectives on European Politics and Society": "https://api.openalex.org/works?filter=primary_location.source.id:S165565590",
+        "Studies in law, politics, and society": "https://api.openalex.org/works?filter=primary_location.source.id:S121454881",
+        "Discourse approaches to politics, society and culture": "https://api.openalex.org/works?filter=primary_location.source.id:S4210213610",
+        "International Journal of Politics Culture and Society": "https://api.openalex.org/works?filter=primary_location.source.id:S42865813",
+        "Journal of Geography Politics and Society": "https://api.openalex.org/works?filter=primary_location.source.id:S4210207789",
+        "Rhetoric, politics and society": "https://api.openalex.org/works?filter=primary_location.source.id:S4393919946",
+        "Acta Academica Critical views on society culture and politics": "https://api.openalex.org/works?filter=primary_location.source.id:S4210195998",
+        "National Resilience Politics and Society": "https://api.openalex.org/works?filter=primary_location.source.id:S4210197375",
+        "Journalism, politics and society.": "https://api.openalex.org/works?filter=primary_location.source.id:S4404662178",
+        "Journal of Soviet and Post-Soviet Politics and Society": "https://api.openalex.org/works?filter=primary_location.source.id:S4210221372",
+        "African Journal of Development Studies (formerly AFFRIKA Journal of Politics Economics and Society)": "https://api.openalex.org/works?filter=primary_location.source.id:S4210209591",
+        "AFFRIKA Journal of Politics Economics and Society": "https://api.openalex.org/works?filter=primary_location.source.id:S4210228403",
+        "Modern Africa Politics History and Society": "https://api.openalex.org/works?filter=primary_location.source.id:S4210217198",
+        "Cass studies in Israeli history, politics and society/Israeli history, politics and society": "https://api.openalex.org/works?filter=primary_location.source.id:S4210169131",
+        "Contemporary Society and Politics Journal": "https://api.openalex.org/works?filter=primary_location.source.id:S4404678050",
+        "Modern Africa: Politics, History and Society": "https://api.openalex.org/works?filter=primary_location.source.id:S4306520112",
+        "French Politics, Society and Culture": "https://api.openalex.org/works?filter=primary_location.source.id:S4393919909",
+        "Evangelical review of society and politics": "https://api.openalex.org/works?filter=primary_location.source.id:S1017980576"
+    },
+    "Progress in Human Geography": {
+        "Progress in Human Geography": "https://api.openalex.org/works?filter=primary_location.source.id:S193412822"
+    },
+    "Public Opinion Quarterly": {
+        "Public Opinion Quarterly": "https://api.openalex.org/works?filter=primary_location.source.id:S135539873"
+    },
+    "Quarterly Journal of Political Science": {
+        "Quarterly Journal of Political Science": "https://api.openalex.org/works?filter=primary_location.source.id:S44648735"
+    },
+    "Review of International Political Economy": {
+        "Review of International Political Economy": "https://api.openalex.org/works?filter=primary_location.source.id:S2875300"
+    },
+    "Social Forces": {
+        "Social Forces": "https://api.openalex.org/works?filter=primary_location.source.id:S130611943"
+    },
+    "Sociological Methodology": {
+        "Sociological Methodology": "https://api.openalex.org/works?filter=primary_location.source.id:S181883320"
+    },
+    "Sociological Review": {
+        "American Sociological Review": "https://api.openalex.org/works?filter=primary_location.source.id:S157620343",
+        "The Sociological Review": "https://api.openalex.org/works?filter=primary_location.source.id:S181098927",
+        "European Sociological Review": "https://api.openalex.org/works?filter=primary_location.source.id:S159327246",
+        "The American Catholic Sociological Review": "https://api.openalex.org/works?filter=primary_location.source.id:S4210198337",
+        "The Pacific Sociological Review": "https://api.openalex.org/works?filter=primary_location.source.id:S4210184910",
+        "Czech Sociological Review": "https://api.openalex.org/works?filter=primary_location.source.id:S4393917180",
+        "Chinese Sociological Review": "https://api.openalex.org/works?filter=primary_location.source.id:S2764722375",
+        "Polish Sociological Review": "https://api.openalex.org/works?filter=primary_location.source.id:S113000259",
+        "Japanese Sociological Review": "https://api.openalex.org/works?filter=primary_location.source.id:S144402922",
+        "African Sociological Review / Revue Africaine de Sociologie": "https://api.openalex.org/works?filter=primary_location.source.id:S4306500894",
+        "Sotsiologicheskoe Obozrenie / Russian Sociological Review": "https://api.openalex.org/works?filter=primary_location.source.id:S4210223199",
+        "Sociologicky Casopis-czech Sociological Review": "https://api.openalex.org/works?filter=primary_location.source.id:S67105332",
+        "The Sociological Review Monographs": "https://api.openalex.org/works?filter=primary_location.source.id:S4210192953",
+        "The Russian Sociological Review": "https://api.openalex.org/works?filter=primary_location.source.id:S2764942940",
+        "Sociol\u00f3gia - Slovak Sociological Review": "https://api.openalex.org/works?filter=primary_location.source.id:S4306530357",
+        "Italian Sociological Review": "https://api.openalex.org/works?filter=primary_location.source.id:S2738431541",
+        "The Sociological Review Magazine": "https://api.openalex.org/works?filter=primary_location.source.id:S4210192773",
+        "Global Sociological Review": "https://api.openalex.org/works?filter=primary_location.source.id:S4210236356",
+        "Philippine Sociological Review": "https://api.openalex.org/works?filter=primary_location.source.id:S5406926063",
+        "\u0421\u043e\u0446\u0438\u043e\u043b\u043e\u0448\u043a\u0430 \u0440\u0435\u0432\u0438\u0458\u0430/The Sociological review": "https://api.openalex.org/works?filter=primary_location.source.id:S4387279361",
+        "Unilag Sociological Review": "https://api.openalex.org/works?filter=primary_location.source.id:S5406957907",
+        "The Sociological Review eBooks": "https://api.openalex.org/works?filter=primary_location.source.id:S4306489931"
+    },
+    "Theory, Culture and Society": {},
+    "West European Politics": {
+        "West European Politics": "https://api.openalex.org/works?filter=primary_location.source.id:S179028992"
+    },
+    "World Development": {
+        "World Development": "https://api.openalex.org/works?filter=primary_location.source.id:S85457386"
+    },
+    "Strategic Organization": {
+        "Strategic Organization": "https://api.openalex.org/works?filter=primary_location.source.id:S11394615"
+    },
+    "Multinational Business Review": {
+        "Multinational Business Review": "https://api.openalex.org/works?filter=primary_location.source.id:S2764892107"
+    },
+    "Journal of Mathematical Psychology": {
+        "Journal of Mathematical Psychology": "https://api.openalex.org/works?filter=primary_location.source.id:S126294776"
+    },
+    "Stress and Health": {
+        "Stress and Health": "https://api.openalex.org/works?filter=primary_location.source.id:S53429330"
+    },
+    "Journal of Cultural Economy": {
+        "Journal of Cultural Economy": "https://api.openalex.org/works?filter=primary_location.source.id:S206312523"
+    }
+}
